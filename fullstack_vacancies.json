@@ -1,0 +1,5162 @@
+[
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Английский язык",
+      "SQL",
+      "Автоматизированное тестирование",
+      "Международные рынки",
+      "Laravel",
+      "Кроссбраузерное тестирование",
+      "LinkedIn"
+    ]
+  },
+  {
+    "name": "Fullstack - QA manager (Специалист по тестированию ПО)",
+    "skills": [
+      "C#",
+      "Написание автотестов"
+    ]
+  },
+  {
+    "name": "Junior Fullstack JavaScript разработчик",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "ExpressJS",
+      "NestJS",
+      "Nats.js",
+      "PostgreSQL",
+      "Sequelize",
+      "React",
+      "TeamCity",
+      "Gitlab",
+      "Docker",
+      "MySQL",
+      "CI/CD",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Fullstack developer (Junior+)",
+    "skills": [
+      "SQL",
+      "JavaScript",
+      "Git",
+      "ООП",
+      "HTTP",
+      "Jira",
+      "Базы данных",
+      "Node.js",
+      "Английский язык",
+      "Express.js",
+      "MongoDB",
+      "NestJS"
+    ]
+  },
+  {
+    "name": "Frontend / Fullstack разработчик (JavaScript + Node.js)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Docker",
+      "Redis",
+      "WebSocket",
+      "PostgreSQL",
+      "Unit Testing",
+      "Git",
+      "HTTP",
+      "HTTPS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "JavaScript",
+      "ASP.NET",
+      "C#",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "MySQL",
+      "HTML",
+      "PHP",
+      "Laravel",
+      "RabbitMQ",
+      "Git",
+      "REST API",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Системный аналитик / Fullstack аналитик",
+    "skills": [
+      "SQL",
+      "Бизнес-анализ",
+      "BPMN",
+      "UML",
+      "Постановка задач разработчикам",
+      "Системный анализ",
+      "Анализ требований",
+      "PlantUML",
+      "Use case",
+      "User Story",
+      "Моделирование бизнес-процессов"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик JS",
+    "skills": [
+      "JavaScript",
+      "Java",
+      "PHP",
+      "MySQL",
+      "PostgreSQL",
+      "SQL",
+      "Docker",
+      "MongoDB",
+      "Git",
+      "JS",
+      "Node.js",
+      "Python"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "JavaScript",
+      "PHP",
+      "Git",
+      "TypeScript",
+      "Node.js",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (JavaScript + Node.js)",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "API"
+    ]
+  },
+  {
+    "name": "Senior FullStack developer (Laravel)",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack Ruby on Rails разработчик Middle+",
+    "skills": [
+      "PostgreSQL",
+      "Ruby On Rails",
+      "Elixir",
+      "Redis",
+      "JavaScript",
+      "Hotwire",
+      "Stimulus",
+      "HTML"
+    ]
+  },
+  {
+    "name": "Веб-разработчик / PHP программист (Fullstack)",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "1С-Битрикс",
+      "PHP",
+      "Кроссбраузерная верстка",
+      "Ajax",
+      "Bootstrap",
+      "CMS Wordpress",
+      "Веб-программирование",
+      "Joomla",
+      "Разработка ПО"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик",
+    "skills": [
+      "Agile Project Management",
+      "Аналитика",
+      "Анализ требований",
+      "Постановка задач разработчикам",
+      "Разработка проектной документации",
+      "Техническая документация",
+      "Системное мышление"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "Yii",
+      "MySQL",
+      "Git",
+      "Bootstrap",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Docker",
+      "Linux",
+      "SQL",
+      "HTML",
+      "Ajax"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик",
+    "skills": [
+      "Системный анализ",
+      "Разработка бизнес-требований",
+      "Разработка пользовательской документации",
+      "BPMN",
+      "UML",
+      "Анализ требований",
+      "Разработка функциональных требований"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "React",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Python, Django, JavaScript)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Django Rest Framework",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack Инженер",
+    "skills": [
+      "Компас-3D",
+      "Автоматизация технологических процессов",
+      "Blender 3D",
+      "САПР",
+      "Автоматизация",
+      "SolidWorks",
+      "Altium Designer"
+    ]
+  },
+  {
+    "name": "Junior Fullstack developer (PHP/JS)",
+    "skills": [
+      "PHP",
+      "Linux",
+      "JavaScript",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Javascript fullstack (React.js, Node.js) разработчик",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "MySQL",
+      "Git",
+      "React.js",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Golang + React)",
+    "skills": [
+      "JavaScript",
+      "React",
+      "REST API",
+      "Frontend",
+      "Golang"
+    ]
+  },
+  {
+    "name": "Fullstack PHP-программист",
+    "skills": [
+      "PHP",
+      "PHPUnit",
+      "Docker",
+      "HTML5",
+      "PHP8",
+      "Jetbrains Phpstorm",
+      "Atlassian Jira",
+      "Linux",
+      "SOLID",
+      "DRY",
+      "MVC",
+      "KISS",
+      "Git",
+      "My SQL",
+      "Java Script"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик middle в международную компанию",
+    "skills": [
+      "Коммуникабельность",
+      "Ответственность",
+      "Инициативность"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик / системный - бизнес аналитик",
+    "skills": [
+      "BPMN",
+      "UML",
+      "Аналитическое мышление",
+      "Постановка задач разработчикам",
+      "Agile Project Management",
+      "Разработка технических заданий",
+      "Системный анализ",
+      "Техническая документация",
+      "Проектная документация",
+      "Моделирование бизнес процессов"
+    ]
+  },
+  {
+    "name": "JS FullStack Developer",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "VueJS",
+      "CSS",
+      "HTML",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Микросервисная архитектура",
+      "ООП",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (разработка ПО)",
+    "skills": [
+      "BPMN",
+      "Бизнес-анализ",
+      "UML",
+      "Моделирование процессов",
+      "Use Case Analysis",
+      "Описание бизнес-процессов"
+    ]
+  },
+  {
+    "name": "Middle fullstack developer / Fullstack-разработчик C#",
+    "skills": [
+      "C#",
+      "JavaScript",
+      "Git",
+      "ASP.NET MVC",
+      "CSS",
+      ".NET Framework"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик JS (Next JS)",
+    "skills": [
+      "JavaScript",
+      "Английский язык",
+      "TypeScript",
+      "SQL",
+      "React.js",
+      "HTML5",
+      "NodeJS",
+      "Web",
+      "ORM",
+      "CI/CD",
+      "ООП",
+      "next JS"
+    ]
+  },
+  {
+    "name": "Fullstack веб-разработчик (TS, JS)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "Nest.JS",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик JS",
+    "skills": [
+      "JavaScript",
+      "Java",
+      "PHP",
+      "MySQL",
+      "PostgreSQL",
+      "SQL",
+      "Docker",
+      "MongoDB",
+      "Git",
+      "JS",
+      "Node.js",
+      "Python"
+    ]
+  },
+  {
+    "name": "QA Fullstack",
+    "skills": [
+      "Тестирование",
+      "Функциональное тестирование",
+      "QA",
+      "Тестирование пользовательского интерфейса",
+      "Test case",
+      "TestRail",
+      "Техники тест-дизайна",
+      "Теория тестирования",
+      "Методологии разработки",
+      "iOS",
+      "Android",
+      "API",
+      "Web",
+      "HTTP",
+      "Postman",
+      "CharlesProxy",
+      "Proxyman",
+      "MacOS",
+      "Linux",
+      "Kotlin",
+      "Java",
+      "Swift",
+      "Python",
+      "Автоматизированное тестирование",
+      "Кроссбраузерное тестирование",
+      "Тестирование Android-приложений",
+      "Тестирование API",
+      "Кроссплатформенное тестирование",
+      "Тестирование iOS-приложений"
+    ]
+  },
+  {
+    "name": "Разработчик PHP / 1С Битрикс (Fullstack)",
+    "skills": [
+      "1С-Битрикс",
+      "1С: Торговля и склад",
+      "1С: Предприятие 8",
+      "Электронный документооборот"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик Middle",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "Node.js",
+      "TypeScript",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Fullstack Web разработчик (PHP, Laravel, Vue.JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Laravel",
+      "MySQL",
+      "HTML",
+      "VueJS",
+      "Git",
+      "Redis",
+      "RabbitMQ",
+      "Apache Kafka",
+      "React",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "QA engineer (Fullstack)",
+    "skills": [
+      "Java",
+      "Postman",
+      "PostgreSQL",
+      "Kibana",
+      "Grafana",
+      "Git"
+    ]
+  },
+  {
+    "name": "Junior fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "HTML",
+      "CSS",
+      "ООП",
+      "Docker",
+      "Sass",
+      "Less",
+      "Composer",
+      "Laravel",
+      "Bitrix",
+      "Webpack",
+      "Bootstrap",
+      "npm",
+      "Foundation",
+      "Node.js",
+      "MySQL",
+      "Git",
+      "jQuery",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Системный / Бизнес аналитик (Fullstack analyst)",
+    "skills": [
+      "SQL",
+      "BPMN",
+      "UML",
+      "User Story",
+      "Разработка бизнес-требований",
+      "Документирование бизнес-требований",
+      "Системный анализ",
+      "REST API",
+      "JSON",
+      "XML"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "MySQL",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Redis",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Младший web-разработчик (fullstack)",
+    "skills": [
+      "ASP.NET MVC",
+      "HTML",
+      "С#",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Middle/Senior FullStack Developer (React + Node.js)",
+    "skills": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "Redux",
+      "Node.js",
+      "MongoDB",
+      "WebRTC"
+    ]
+  },
+  {
+    "name": "Junior fullstack developer",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "GraphQL",
+      "Postgres",
+      "Redis",
+      "NextJs",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Middle/Senior Fullstack developer",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик",
+    "skills": [
+      "SQL",
+      "UML",
+      "BPMN",
+      "Бизнес-анализ",
+      "Системный анализ",
+      "Разработка функциональных требований",
+      "Разработка нефункциональных требований"
+    ]
+  },
+  {
+    "name": "IT бизнес-аналитик / Fullstack analyst",
+    "skills": [
+      "BPMN",
+      "MS Excel",
+      "IDEF0",
+      "Бизнес-анализ"
+    ]
+  },
+  {
+    "name": "Fullstack PHP разработчик 1С-Битрикс (middle, middle+)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Magento",
+      "Elasticsearch",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик 1C-Bitrix",
+    "skills": [
+      "PHP",
+      "GitHub",
+      "1С-Битрикс"
+    ]
+  },
+  {
+    "name": "Программист-разработчик (Fullstack)",
+    "skills": [
+      "Разработка ПО",
+      "Node.js",
+      "MongoDB",
+      "React",
+      "React Native",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend / Fullstack разработчик Kotlin / Java",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Базы данных",
+      "Spring",
+      "Exposed",
+      "SQL",
+      "Intellij IDEA",
+      "Git",
+      "Gradle",
+      "HTTP",
+      "HTTPS"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик PHP",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик на php/битрикс",
+    "skills": [
+      "PHP",
+      "Bitrix",
+      "Wordpress",
+      "MySQL",
+      "Git",
+      "Figma"
+    ]
+  },
+  {
+    "name": "Fullstack WEB developer",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "MySQL",
+      "HTML",
+      "RabbitMQ",
+      "Git",
+      "PostgreSQL",
+      "REST API",
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack QA",
+    "skills": [
+      "Python",
+      "API",
+      "QA"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (JavaScript, Node.js)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "HTML",
+      "SPA",
+      "SSR"
+    ]
+  },
+  {
+    "name": "Fullstack веб-разработчик",
+    "skills": [
+      "HTML",
+      "JavaScript",
+      "Python",
+      "Flask",
+      "Firebase"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Frontend / Backend разработчик",
+    "skills": [
+      "Django Framework",
+      "Python",
+      "JavaScript",
+      "Git",
+      "Vue.js",
+      "PostgreSQL",
+      "ООП",
+      "Linux",
+      "Тестирование",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Fullstack QA engineer (Java, web/mob)",
+    "skills": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "REST",
+      "SQL",
+      "GraphQL",
+      "HTTP",
+      "Selenium",
+      "Postman",
+      "Java"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "React",
+      "Angular",
+      "VueJS",
+      "Node.js",
+      "Django Framework"
+    ]
+  },
+  {
+    "name": "Веб-программист C# ASP.NET (Fullstack)",
+    "skills": [
+      "OpenCV",
+      "C++",
+      "CUDA",
+      "Big Data",
+      "Computer Vision",
+      "PyTorch",
+      "Machine Learning",
+      "Математическая статистика",
+      "Математический анализ",
+      "Математическое программирование",
+      "MATLAB",
+      "Mathcad",
+      "Python",
+      "C#",
+      "Visual Studio C#",
+      "ASP.NET",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "Simulink",
+      "Entity Framework",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Node.js",
+      "React",
+      "Redis",
+      "MySQL",
+      "MongoDB",
+      "TypeScript",
+      "Docker",
+      "Gitlab",
+      "Ethers.js",
+      "Nest.js",
+      "solidity",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик Node.js/React",
+    "skills": [
+      "Node.js",
+      "React",
+      "Redux",
+      "TypeScript",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "RabbitMQ",
+      "Apache Kafka",
+      "API"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "MySQL",
+      "Рефакторинг кода",
+      "Анализ кода",
+      "Адаптивная верстка",
+      "Wordpress",
+      "Linux",
+      "MVC",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Системный/Бизнес-аналитик (Fullstack)",
+    "skills": [
+      "SQL",
+      "Аналитическое мышление",
+      "Моделирование бизнес-процессов",
+      "Анализ требований"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Analyst (Системный и бизнес-анализ)",
+    "skills": [
+      "Системный анализ",
+      "Постановка задач разработчикам",
+      "Разработка пользовательской документации",
+      "SQL",
+      "Python",
+      "UML",
+      "User Story",
+      "Specifications"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (PHP + JavaScript)",
+    "skills": [
+      "PHP",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack JavaScript разработчик",
+    "skills": [
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "PostgreSQL",
+      "Amazon Web Services",
+      "Английский язык",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Fullstack Python разработчик ML / AI сервисов (Middle+ / Senior)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "AWS",
+      "Docker",
+      "PostgreSQL",
+      "Git",
+      "RAG",
+      "Celery",
+      "Alembic",
+      "REST API",
+      "Google Cloud Vision API",
+      "Beautiful Soup",
+      "Обработка DOCX / Aspose",
+      "Amazon Web Services",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик PHP",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "MySQL",
+      "Git",
+      "Docker",
+      "Cursor AI"
+    ]
+  },
+  {
+    "name": "PHP разработчик (Fullstack)",
+    "skills": [
+      "PHP",
+      "ООП",
+      "PostgreSQL",
+      "HTML"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Developer (.NET + Web Frontend)",
+    "skills": [
+      "JavaScript",
+      "С#",
+      "Angular",
+      "HTML",
+      ".NET",
+      "CSS",
+      "jQuery",
+      "Postman",
+      "Swagger",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "MySQL",
+      "Node.js",
+      "Английский язык",
+      "API",
+      "SQL",
+      "Веб-программирование",
+      "Python",
+      "Обучение и развитие",
+      "Java",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Интерактивные руководства)",
+    "skills": [
+      "Бизнес-анализ",
+      "Постановка задач разработчикам",
+      "SQL",
+      "Системный анализ",
+      "BPMN, UML",
+      "REST API",
+      "HTTP",
+      "JSON",
+      "XML",
+      "реляционные БД",
+      "S1000D",
+      "CAD",
+      "PLM",
+      "PDM",
+      "Аналитическое мышление",
+      "Организаторские навыки",
+      "опыт работы в команде",
+      "Наставничество"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (PHP, JavaScript)",
+    "skills": [
+      "Git",
+      "MySQL",
+      "ООП",
+      "Nginx",
+      "PHP",
+      "PostgreSQL",
+      "MongoDB",
+      "HTML5",
+      "Docker",
+      "Vue",
+      "Redis",
+      "Node.js",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle+ C# Developer Fullstack",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "PostgreSQL",
+      "Entity Framework",
+      "AngularJS",
+      "HTML",
+      "Swagger",
+      ".NET Framework",
+      "CSS",
+      "Typescript, Javascript"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик",
+    "skills": [
+      "PostgreSQL",
+      "Микросервисная архитектура",
+      "Apache Kafka",
+      "BPMN",
+      "ArchiMate",
+      "UML"
+    ]
+  },
+  {
+    "name": "Middle Fullstack C# Developer",
+    "skills": [
+      "C#",
+      "Entity Framework",
+      ".NET Core",
+      "Git",
+      "gRPC",
+      "REST API",
+      "LINQ",
+      "PostgreSQL",
+      "SOLID",
+      "ООП",
+      "WPF"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик",
+    "skills": [
+      "PostgreSQL",
+      "Микросервисная архитектура",
+      "Apache Kafka",
+      "BPMN",
+      "ArchiMate",
+      "UML"
+    ]
+  },
+  {
+    "name": "Fullstack Team Lead",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "React",
+      "Управление командой"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Laravel)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "HTML",
+      "CSS",
+      "VueJS",
+      "jQuery",
+      "Git",
+      "CI/CD",
+      "UX",
+      "UI",
+      "API"
+    ]
+  },
+  {
+    "name": "Junior PHP developer (fullstack)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "jQuery",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "CMS Wordpress",
+      "Laravel",
+      "Ajax",
+      "Joomla CMS",
+      "Yii2"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Fintech)",
+    "skills": [
+      "SQL",
+      "BPMN",
+      "Системный анализ",
+      "UML",
+      "JavaScript",
+      "TypeScript",
+      "Postman",
+      "JUnit",
+      "Selenium",
+      "Fintech"
+    ]
+  },
+  {
+    "name": "Fullstack developer",
+    "skills": [
+      "Laravel",
+      "Docker",
+      "Nginx",
+      "Kubernetes",
+      "VueJS",
+      "PHP",
+      "DevOps",
+      "REST API",
+      "Микросервисная архитектура",
+      "Architecture Framework",
+      "Docker-compose",
+      "GitLab CI",
+      "CI/CD",
+      "Apache Kafka",
+      "Gitlab"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (Next.js / React)",
+    "skills": [
+      "React",
+      "nextjs",
+      "tailwindcss",
+      "prisma",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Fullstack developer (программист-разработчик)",
+    "skills": [
+      "Laravel",
+      "JavaScript",
+      "Git",
+      "TypeScript",
+      "MySQL",
+      "SQL",
+      "HTML",
+      "PHP",
+      "PostgreSQL",
+      "Docker",
+      "CSS3",
+      "Vue.js",
+      "Веб-программирование",
+      "Composer",
+      "JSON",
+      "ReactJS",
+      "React.js",
+      "REST API",
+      "GitHub",
+      "Bootstrap",
+      "Linux",
+      "Python",
+      "API",
+      "Java Script",
+      "Frontend",
+      "JSON API",
+      "HTML5",
+      "PHP7"
+    ]
+  },
+  {
+    "name": "Аналитик Fullstack (ДМС)",
+    "skills": [
+      "MS Project",
+      "Управление проектами",
+      "Atlassian Jira",
+      "Разработка технических заданий",
+      "Деловая коммуникация",
+      "Работа с большим объемом информации",
+      "Работа в режиме многозадачности",
+      "Техническая документация",
+      "Удаленная работа",
+      "Управление рисками",
+      "Управление командой",
+      "Коммуникативные навыки",
+      "Стратегическое мышление",
+      "Аналитическое мышление",
+      "Redmine",
+      "Постановка задач разработчикам"
+    ]
+  },
+  {
+    "name": "Web-разработчик Fullstack",
+    "skills": [
+      "PHP5",
+      "Yii2",
+      "Yii",
+      "MySQL",
+      "Git",
+      "Проектирование",
+      "Адаптивная верстка"
+    ]
+  },
+  {
+    "name": "QA Fullstack",
+    "skills": [
+      "Тестирование",
+      "Функциональное тестирование",
+      "QA",
+      "Тестирование пользовательского интерфейса",
+      "Test case",
+      "TestRail",
+      "Техники тест-дизайна",
+      "Теория тестирования",
+      "Методологии разработки",
+      "iOS",
+      "Android",
+      "API",
+      "Web",
+      "HTTP",
+      "Postman",
+      "CharlesProxy",
+      "Proxyman",
+      "MacOS",
+      "Linux",
+      "Kotlin",
+      "Java",
+      "Swift",
+      "Python",
+      "Автоматизированное тестирование",
+      "Кроссбраузерное тестирование",
+      "Тестирование Android-приложений",
+      "Тестирование API",
+      "Кроссплатформенное тестирование",
+      "Тестирование iOS-приложений"
+    ]
+  },
+  {
+    "name": "Senior QA fullstack инженер",
+    "skills": [
+      "Allure TestOps",
+      "Golang",
+      "API",
+      "Ручное тестирование",
+      "Автоматизированное тестирование",
+      "Нагрузочное тестирование",
+      "Python",
+      "SQL",
+      "ELK",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Backend (NodeJS) / fullstack разработчик в студию",
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Node.js",
+      "GitHub",
+      "TypeScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Wordpress-разработчик (Fullstack-разработчик)",
+    "skills": [
+      "HTML",
+      "Верстка сайтов",
+      "Tilda",
+      "Figma",
+      "PHP",
+      "JavaScript",
+      "MySQL",
+      "XMind",
+      "Адаптивная верстка",
+      "jQuery",
+      "Bootstrap",
+      "Wordpress",
+      "Webflow",
+      "Внутренняя оптимизация сайта",
+      "Sass"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "HTML",
+      "Wordpress",
+      "Adobe FrameMaker",
+      "Figma",
+      "PHP",
+      "SQL",
+      "Оптимизация кода",
+      "React",
+      "Angular",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "FullStack-разработчик (NestJS/Vue 3)",
+    "skills": [
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "MySQL",
+      "Git",
+      "VueJS",
+      "Vue3",
+      "Quasar",
+      "TypeORM",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик (Банковский технолог)",
+    "skills": [
+      "РКО",
+      "РКЦ",
+      "Отчетность в ЦБ"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Java",
+      "Spring Framework"
+    ]
+  },
+  {
+    "name": "FullStack/ Backend разработчик",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Junior Fullstack Аналитик (ML, AI, RPA проекты)",
+    "skills": [
+      "BPMN",
+      "Документирование бизнес-требований",
+      "SQL",
+      "API",
+      "Power BI"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Ответственность",
+      "Организаторские навыки"
+    ]
+  },
+  {
+    "name": "FullStack Developer (PHP, CMS Platforms)",
+    "skills": [
+      "CMS Wordpress",
+      "Joomla CMS",
+      "Разработка CMS",
+      "PHP",
+      "Yii",
+      "Laravel",
+      "JavaScript",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "Python",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Senior/Главный системный/бизнес/fullstack аналитик (интеграции)",
+    "skills": [
+      "SOAP",
+      "REST",
+      "BPMN",
+      "SQL",
+      "Системный анализ",
+      "Scrum",
+      "XML",
+      "UML",
+      "Системная интеграция",
+      "Аналитика",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Middle fullstack (Python + React) разработчик",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "React",
+      "API",
+      "ELK"
+    ]
+  },
+  {
+    "name": "Junior Fullstack разработчик",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Git",
+      "SQL",
+      "HTML",
+      "jQuery",
+      "HTML5",
+      "Битрикс24",
+      "Gitlab",
+      "GitHub",
+      "1C: Бухгалтерия",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Web-разработчик (fullstack)",
+    "skills": [
+      "C#",
+      "HTML",
+      "jQuery",
+      "CSS",
+      "JavaScript",
+      "ASP.NET MVC",
+      "SQL"
+    ]
+  },
+  {
+    "name": "JS FullStack Developer",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "TypeScript",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "name": "FullStack разработчик",
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "HTML5",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик",
+    "skills": [
+      "Оптимизация бизнес-процессов",
+      "Анализ бизнес-процессов",
+      "Описание бизнес-процессов",
+      "Разработка бизнес-требований",
+      "Разработка функциональных требований",
+      "Постановка задач разработчикам"
+    ]
+  },
+  {
+    "name": "Web-разработчик (fullstack)",
+    "skills": [
+      "Кроссбраузерная верстка",
+      "CSS",
+      "HTML5",
+      "HTML",
+      "JavaScript",
+      "React.js",
+      "React",
+      "CMS MODX",
+      "MODX",
+      "PHP",
+      "CSS3",
+      "jQuery",
+      "Git",
+      "Ajax",
+      "ООП",
+      "vue"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (JavaScript)",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "NestJS",
+      "Express",
+      "CSS",
+      "VueJS",
+      "DBeaver",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "VueJS",
+      "PostgreSQL",
+      "Laravel",
+      "Yii"
+    ]
+  },
+  {
+    "name": "Junior FullStack-разработчик (PHP, JS, Vue3)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "VueJS",
+      "MySQL",
+      "Clickhouse"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (бизнес-системный) / Middle/Middle+",
+    "skills": [
+      "Системный анализ",
+      "Описание требований",
+      "Управление требованиями",
+      "Написание документации",
+      "Проектирование информационных систем",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Analyst (Business Analyst / System Analyst)",
+    "skills": [
+      "Системный анализ",
+      "Бизнес-анализ",
+      "BPMN",
+      "UML",
+      "Разработка бизнес-требований",
+      "Разработка нефункциональных требований",
+      "Разработка функциональных требований",
+      "SQL",
+      "Системное мышление"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик",
+    "skills": [
+      "Laravel",
+      "Symfony",
+      "VueJS",
+      "Nuxt",
+      "PHP",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Middle FullStack Разработчик (Laravel/Vue)",
+    "skills": [
+      "PostgreSQL",
+      "Redis",
+      "RabbitMQ",
+      "Laravel",
+      "React"
+    ]
+  },
+  {
+    "name": "Middle Web-разработчик (FullStack) JavaScript, React",
+    "skills": [
+      "CSS",
+      "Git",
+      "Scrum",
+      "HTML",
+      "Node.js",
+      "ReactJS",
+      "Web-приложения",
+      "JavaScript",
+      "React",
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "Middle/Middle+/fullstack бизнес-системный аналитик (ВЗР)",
+    "skills": [
+      "SOAP",
+      "REST",
+      "BPMN",
+      "SQL",
+      "Системный анализ",
+      "Scrum",
+      "XML",
+      "UML",
+      "Системная интеграция",
+      "Аналитика",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Senior Fullstack QA Engineer",
+    "skills": [
+      "Python",
+      "Pytest",
+      "Тестирование"
+    ]
+  },
+  {
+    "name": "Fullstack PHP Developer",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Fullstack senior developer / CTO TechLead CryptoExchanger",
+    "skills": [
+      "Работа в условиях многозадачности",
+      "Лояльность",
+      "Умение слушать",
+      "Умение работать в условиях многозадачности",
+      "MS Office Excel"
+    ]
+  },
+  {
+    "name": "Fullstack developer (с уклоном во Frontend | Vue)",
+    "skills": [
+      "Node.js",
+      "VueJS",
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "PostgreSQL",
+      "Express",
+      "Fastify",
+      "NestJs",
+      "Bun",
+      "Elysia",
+      "DrizzleORM",
+      "GCP (Good Clinical Practice)",
+      "REST API",
+      "Микросервисная архитектура",
+      "CSS",
+      "HTML",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Системный и бизнес-анализ)",
+    "skills": [
+      "BPMN",
+      "Моделирование бизнес процессов",
+      "Постановка задач разработчикам",
+      "Системный анализ",
+      "UML",
+      "SQL",
+      "JSON API"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer (JS, TS)",
+    "skills": [
+      "JavaScript",
+      "Redis",
+      "MySQL",
+      "RabbitMQ",
+      "Docker-compose",
+      "SQL",
+      "TypeScript",
+      "Kubernetes",
+      "Next.js",
+      "Node.js",
+      "PostgreSQL",
+      "API",
+      "NestJS",
+      "mariadb",
+      "TypeORM",
+      "Prisma",
+      "ExpressJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Оптимизация кода",
+      "GitHub",
+      "Python",
+      "React",
+      "Telegram",
+      "Node.js",
+      "Web Application Development"
+    ]
+  },
+  {
+    "name": "Fullstack PHP-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Git",
+      "JavaScript",
+      "Symfony",
+      "Docker",
+      "Vue.js",
+      "API"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "CMS Wordpress",
+      "SQL",
+      "Веб-программирование",
+      "CMS ModX",
+      "CMS NetCat",
+      "API",
+      "Frontend",
+      "Backend",
+      "Верстка"
+    ]
+  },
+  {
+    "name": "Fullstack QA (Java)",
+    "skills": [
+      "Java",
+      "Selenium",
+      "Selenide",
+      "CI/CD",
+      "API",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "PHP Fullstack разработчик (Laravel)",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP",
+      "ООП"
+    ]
+  },
+  {
+    "name": "Junior+ / Pre-middle Fullstack Developer / Разработчик",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "MySQL",
+      "AWS",
+      "Git",
+      "Golang",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "VueJS",
+      "Git",
+      "Docker",
+      "PHP",
+      "Laravel",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Laravel",
+      "Yii",
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "MongoDB",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик ( 1C-Bitrix ) PHP, JS",
+    "skills": [
+      "1С-Битрикс",
+      "Bitrix",
+      "JavaScript",
+      "VueJS",
+      "Git",
+      "PHP",
+      "Docker",
+      "API"
+    ]
+  },
+  {
+    "name": "Fullstack-программист",
+    "skills": [
+      "Кроссбраузерная верстка",
+      "MySQL",
+      "ModX",
+      "Wordpress",
+      "Front и Backend",
+      "PHP",
+      "API",
+      "Webhook"
+    ]
+  },
+  {
+    "name": "PHP-разработчик/Fullstack (middle)",
+    "skills": [
+      "Laravel",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Системный бизнес-аналитик (fullstack)",
+    "skills": [
+      "SQL",
+      "Бизнес-анализ",
+      "BPMN",
+      "Разработка технических заданий",
+      "Системный анализ",
+      "Разработка бизнес-требований",
+      "Постановка задач разработчикам",
+      "Моделирование бизнес-процессов"
+    ]
+  },
+  {
+    "name": "Fullstack/Backend-разработчик php",
+    "skills": [
+      "Git",
+      "MVC",
+      "jQuery",
+      "PostgreSQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (Python/React)",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "API",
+      "React",
+      "PostgreSQL",
+      "Django Framework",
+      "REST"
+    ]
+  },
+  {
+    "name": "Бизнес-аналитик/Fullstack-аналитик IT",
+    "skills": [
+      "JSON API",
+      "Бизнес-анализ",
+      "REST",
+      "SOAP",
+      "Системный анализ",
+      "Деловая коммуникация",
+      "Аналитика",
+      "Системная интеграция",
+      "Постановка задач разработчикам",
+      "Документальное сопровождение"
+    ]
+  },
+  {
+    "name": "Fullstack Backend-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Node.js",
+      "SQL",
+      "JavaScript",
+      "Bootstrap",
+      "Микросервисная архитектура",
+      "jQuery",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Developer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Clickhouse",
+      "SQL",
+      "JavaScript",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Fullstack (cистемный/бизнес) аналитик",
+    "skills": [
+      "Бизнес-анализ",
+      "Системный анализ",
+      "BPMN",
+      "Моделирование бизнес процессов",
+      "SQL",
+      "UML",
+      "API"
+    ]
+  },
+  {
+    "name": "Middle Fullstack разработчик (PHP+JS)",
+    "skills": [
+      "jQuery",
+      "PHP",
+      "JavaScript",
+      "React",
+      "Laravel",
+      "Python",
+      "Symfony",
+      "Docker",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Fullstack middle разработчик (NodeJs, React)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "fullstack",
+      "TypeScript",
+      "React",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack Разработчик (PHP/JS) part-time",
+    "skills": [
+      "PHP",
+      "jQuery",
+      "React",
+      "Laravel",
+      "Git",
+      "Docker",
+      "Linux",
+      "MySQL",
+      "Redis",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Angular",
+      "Python",
+      "Terraform",
+      "Ansible",
+      "MongoDB",
+      "PostgreSQL",
+      "Grafana",
+      "Clickhouse",
+      "RDS",
+      "S3",
+      "Route53",
+      "Firebase",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack JavaScript Developer",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "NextJS",
+      "React"
+    ]
+  },
+  {
+    "name": "QA Fullstack тестировщик c#",
+    "skills": [
+      "Git",
+      "Atlassian Jira",
+      "SQL",
+      "Atlassian Confluence",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "FullStack программист Laravel",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "HTML5",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior Fullstack developer (PHP/JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "jQuery",
+      "MySQL",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack JS разработчик (Next.js)",
+    "skills": [
+      "JavaScript",
+      "REST API",
+      "API",
+      "Git",
+      "MySQL",
+      "Node.js",
+      "TypeScript",
+      "Микросервисная архитектура",
+      "React",
+      "Next.js"
+    ]
+  },
+  {
+    "name": "QA Fullstack Engineer (Back-end)",
+    "skills": [
+      "REST API",
+      "HTTP",
+      "Тестирование",
+      "Kafka",
+      "Написание автотестов",
+      "Kotlin",
+      "NoSQL",
+      "Postman"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик",
+    "skills": [
+      "MS SQL",
+      "UML",
+      "BPMN",
+      "REST API",
+      "Проектирование БД",
+      "XML",
+      "JSON",
+      "SOAP",
+      "Бизнес-анализ",
+      "Системный анализ"
+    ]
+  },
+  {
+    "name": "Инженер по тестированию Fullstack",
+    "skills": [
+      "QA",
+      "Charles",
+      "Fiddler",
+      "JSON API",
+      "JSON"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "jQuery",
+      "Git",
+      "HTML5",
+      "CSS3",
+      "SQL",
+      "ООП",
+      "Работа в команде",
+      "Обучение персонала",
+      "Организаторские навыки",
+      "Управление персоналом"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Laravel + Vue 3/Nuxt 3)",
+    "skills": [
+      "Laravel",
+      "Vue.js",
+      "JavaScript",
+      "PHP",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack JavaScript/Typescript разработчик",
+    "skills": [
+      "ООП",
+      "Git",
+      "Linux",
+      "ReactJS",
+      "JavaScript",
+      "GraphQL",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик",
+    "skills": [
+      "UML",
+      "API",
+      "BPMN",
+      "ER-диаграммы"
+    ]
+  },
+  {
+    "name": "Fullstack QA инженер (frontend)",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "CSS",
+      "JSON"
+    ]
+  },
+  {
+    "name": "Backend/Fullstack Developer",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Умение работать в коллективе",
+      "Laravel",
+      "Gitlab",
+      "Vue 3"
+    ]
+  },
+  {
+    "name": "Специалист по машинному обучению ML Engineer, Fullstack-разработчик",
+    "skills": [
+      "Python",
+      "VueJS",
+      "PHP",
+      "Математическая статистика",
+      "PyTorch"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик",
+    "skills": [
+      "Git",
+      "PHP",
+      "PostgreSQL",
+      "JS",
+      "Web"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "VueJS",
+      ".NET Core",
+      "MS SQL",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Middle Fullstack JS Developer / Nest Node Vue",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "VueJS",
+      "Git",
+      "MySQL",
+      "TypeScript",
+      "NestJS"
+    ]
+  },
+  {
+    "name": "Fullstack QA Java (Инвестиционный блок)",
+    "skills": [
+      "REST",
+      "Java",
+      "Hibernate ORM",
+      "Работа с базами данных",
+      "Git",
+      "CI/CD",
+      "Windows Os",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Junior Fullstack разработчик (PHP/JS)",
+    "skills": [
+      "Symfony",
+      "Yii",
+      "MySQL",
+      "PHP",
+      "JavaScript",
+      "VueJS",
+      "Nuxt"
+    ]
+  },
+  {
+    "name": "Fullstack developer",
+    "skills": [
+      "TypeScript",
+      "Telegram",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Senior)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "TypeScript",
+      "JavaScript",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Бизнес-аналитик / Fullstack-аналитик (Офис)",
+    "skills": [
+      "SQL",
+      "Бизнес-анализ",
+      "Сбор и анализ информации",
+      "REST",
+      "MS Project",
+      "XML",
+      "Аналитическое мышление",
+      "MS Office",
+      "CASE",
+      "написание технических заданий",
+      "Системный подход"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (JavaScript)",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "name": "Руководитель отдела разработки / Team Lead – Fullstack .NET Developer",
+    "skills": [
+      "C#",
+      "Управление командой",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Middle fullstack-разработчик (Vue/Nest.js)",
+    "skills": [
+      "VueJS",
+      "TypeScript",
+      "Node.js",
+      "REST API",
+      "JavaScript",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик Fullstack (python\\django)",
+    "skills": [
+      "Python",
+      "Django Rest Framework",
+      "React",
+      "CI/CD",
+      "GitLab CI",
+      "Pytest",
+      "СУБД"
+    ]
+  },
+  {
+    "name": "Auto QA Engineer (fullstack / Java / backend)",
+    "skills": [
+      "QA Automation",
+      "SDET",
+      "понимание REST API",
+      "SQL",
+      "Java",
+      "RestAssured",
+      "JUnit",
+      "Gitlab",
+      "Allure",
+      "TestNG",
+      "Apache Kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "FullStack QA (C#)",
+    "skills": [
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Программист ASP.NET (Fullstack)",
+    "skills": [
+      "ASP.NET",
+      "MS SQL",
+      "Transact-SQL",
+      "JavaScript",
+      "jQuery",
+      "HTML",
+      "CSS",
+      "Entity Framework",
+      "LINQ",
+      "WCF",
+      ".NET Core",
+      "ASP.NET Core"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (RMS/FaO)",
+    "skills": [
+      "SQL",
+      "DBeaver",
+      "ML"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик .NET (C#) + angular в продуктовую it-компанию",
+    "skills": [
+      "С#",
+      ".NET Framework",
+      ".NET Core",
+      "TypeScript",
+      "Entity Framework",
+      "NHibernate",
+      "Docker",
+      "Elasticsearch",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Fullstack QA Engineer (гибрид)",
+    "skills": [
+      "Java"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer (Laravel / Vue)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Laravel",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle Fullstack developer (PHP/JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Linux",
+      "REST API",
+      "HTTPS",
+      "HTTP",
+      "Администрирование серверов Linux"
+    ]
+  },
+  {
+    "name": "Middle Fullstack - разработчик (Laravel, Vue)",
+    "skills": [
+      "Fullstack",
+      "PHP",
+      "Laravel",
+      "JS",
+      "Vue3"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer (AI)",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "Neo4j",
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "Senior FullStack Engineer (Angular, Node.js)",
+    "skills": [
+      "Angular",
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Fullstack Python разработчик",
+    "skills": [
+      "Python",
+      "LLM",
+      "AI",
+      "Нейронные сети",
+      "Kanban",
+      "Git",
+      "SQL",
+      "API",
+      "Jupiter",
+      "Kubernetes",
+      "Docker",
+      "OpenAI",
+      "Langchain"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (React + Rust)",
+    "skills": [
+      "React",
+      "Rust",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "fullstack",
+      "backend",
+      "CI/CD",
+      "Webpack",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "PostgreSQL",
+      "JSON API",
+      "Node.js",
+      "React",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (React + Node.js)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Программист разработчик прикладного ПО (fullstack)",
+    "skills": [
+      "С",
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Bash",
+      "Прикладное ПО",
+      "C/C++",
+      "C++"
+    ]
+  },
+  {
+    "name": "PHP Программист/Fullstack/Backend Разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "Nginx",
+      "Apache HTTP Server",
+      "Linux",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack developer / Full-stack разработчик (Middle)",
+    "skills": [
+      "Python",
+      "React",
+      "PHP",
+      "Angular",
+      "Scrum",
+      "MySQL",
+      "MS SQL",
+      "Системное мышление",
+      "Django",
+      "Django Rest Framework",
+      "Redux",
+      "PostgreSQL",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик PHP / Bitrix",
+    "skills": [
+      "PHP",
+      "Битрикс24",
+      "jQuery",
+      "HTML",
+      "MySQL",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Senior Fullstack developer/Веб-разработчик",
+    "skills": [
+      "Python",
+      "Git",
+      "JS",
+      "Node.js",
+      "vue.js",
+      "Django Framework",
+      "Flask",
+      "leaflet",
+      "sigma.js",
+      "ogma.js",
+      "open-source",
+      "JavaScript",
+      "React",
+      "Redux",
+      "Django",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Fullstack Vue / PHP разработчик (Минск, офис)",
+    "skills": [
+      "PHP",
+      "VueJS",
+      "MySQL",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Git",
+      "SQL",
+      "Apache Kafka",
+      "JavaScript",
+      "HTML",
+      "Webflow",
+      "MongoDB",
+      "Postmypost"
+    ]
+  },
+  {
+    "name": "FullStack Developer (React + Node.js)",
+    "skills": [
+      "JavaScript",
+      "CI/CD",
+      "Docker",
+      "MongoDB",
+      "PostgreSQL",
+      "Node.js",
+      "React",
+      "TypeScript",
+      "English—B2/C1"
+    ]
+  },
+  {
+    "name": "PHP Веб Программист / Fullstack / Backend Разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "jQuery",
+      "HTML",
+      "MVC",
+      "CSS",
+      "ООП",
+      "Git",
+      "Bootstrap",
+      "Разработка ПО",
+      "Веб-программирование",
+      "Laravel",
+      "TypeScript",
+      "GitHub",
+      "Проектирование"
+    ]
+  },
+  {
+    "name": "Fullstack QA Engineer (Python)",
+    "skills": [
+      "Allure TestOps",
+      "Python",
+      "Selenium",
+      "Pytest"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer (Node.js + React)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (Laravel + Vue)",
+    "skills": [
+      "PHP",
+      "REST",
+      "Git",
+      "SQL",
+      "Веб-программирование",
+      "Linux",
+      "API",
+      "Laravel",
+      "Vue.js",
+      "Docker",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Разработчик Bitrix fullstack Отдела веб-приложений",
+    "skills": [
+      "1С-Битрикс",
+      "HTML",
+      "VUE",
+      "MySQL",
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "Bitrix"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Middle)",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "PostgreSQL",
+      "Angular",
+      "Kafka"
+    ]
+  },
+  {
+    "name": "Fullstack QA engineer (Python) / Fullstack инженер по тестированию (Python)",
+    "skills": [
+      "Python",
+      "Pytest",
+      "GitLab CI",
+      "Playwright",
+      "SQL",
+      "Ручное тестирование"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик .NET. C#",
+    "skills": [
+      "JavaScript",
+      "Разработка ПО",
+      "SQL",
+      "Scrum",
+      "RabbitMQ",
+      "MS SQL Server",
+      "REST",
+      "C#",
+      "ASP.NET MVC",
+      "ASP.NET Core",
+      ".NET Framework",
+      ".NET Core",
+      "CSharp",
+      "AspNet",
+      "ASP.NET",
+      "DotNetCore",
+      "SqlServer",
+      "Angular JS"
+    ]
+  },
+  {
+    "name": "Middle Fullstack - PHP Laravel JS JQUERY разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "SQL",
+      "Английский язык",
+      "Docker",
+      "Linux",
+      "REST",
+      "API",
+      "HTML",
+      "jQuery",
+      "Веб-программирование",
+      "phpMyAdmin",
+      "Laravel",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик Bitrix+WordPress",
+    "skills": [
+      "1С-Битрикс",
+      "CMS Wordpress",
+      "Wordpress",
+      "Верстка сайтов"
+    ]
+  },
+  {
+    "name": "Middle Fullstack разработчик (Vue.js 3 + Nuxt.js)",
+    "skills": [
+      "nuxt.js",
+      "vue.js",
+      "TypeScript",
+      "Java Script",
+      "Strapi CMS",
+      "GitHub flow",
+      "HTML"
+    ]
+  },
+  {
+    "name": "Системный/fullstack аналитик (middle)",
+    "skills": [
+      "Разработка технических заданий",
+      "Постановка задач разработчикам",
+      "Работа с базами данных",
+      "Анализ данных",
+      "SQL",
+      "Сбор и анализ информации"
+    ]
+  },
+  {
+    "name": "Программист PHP Backend/Fullstack (Middle+)",
+    "skills": [
+      "Symfony",
+      "Kafka",
+      "Golang",
+      "PHP",
+      "jQuery",
+      "GraphQL",
+      "Keycloak",
+      "RabbitMQ",
+      "Docker",
+      "Composer",
+      "PostgreSQL",
+      "MySQL",
+      "Адаптер",
+      "Декоратор",
+      "Singleton",
+      "RestApi",
+      "Yii2",
+      "Middle",
+      "Php Developer"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик / Middle",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "CSS",
+      "HTML",
+      "Git",
+      "JavaScript",
+      "jQuery",
+      "MVC",
+      "SQL",
+      "Datatables",
+      "Ajax",
+      "Query Builder",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (React+Node)",
+    "skills": [
+      "Node.js",
+      "Koa.js",
+      "TypeScript",
+      "Backend",
+      "JavaScript",
+      "SQL",
+      "MongoDB",
+      "React",
+      "Redux",
+      "Express"
+    ]
+  },
+  {
+    "name": "Senior/Teamlead fullstack разработчик .NET",
+    "skills": [
+      "C#",
+      "Blazor",
+      "PostgreSQL",
+      "SQL",
+      ".NET",
+      "REST API",
+      "Clickhouse",
+      "LINQ",
+      "NHibernate",
+      "Redis",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик / веб программист",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST API",
+      "PostgreSQL",
+      "VueJS",
+      "Redux",
+      "Git",
+      "SQL",
+      "Docker",
+      "Yandex Cloud",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик PHP",
+    "skills": [
+      "CSS",
+      "jQuery",
+      "Ajax",
+      "JavaScript",
+      "MySQL",
+      "Git",
+      "Bootstrap",
+      "Yii",
+      "Sass",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack QA Engineer (Python)",
+    "skills": [
+      "Allure TestOps",
+      "Python",
+      "Selenium",
+      "Pytest"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Docker",
+      "GitHub",
+      "JavaScript",
+      "HTML",
+      "React"
+    ]
+  },
+  {
+    "name": "FullStack Web Development Team Lead",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Teamleading",
+      "Team management",
+      "Web Application Development",
+      "Code Optimization"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик",
+    "skills": [
+      "Сбор и анализ требований",
+      "Моделирование бизнес процессов",
+      "BPMN",
+      "UML",
+      "Описание API и интеграций",
+      "API",
+      "Постановка задач разработчикам",
+      "Работа с технической документацией",
+      "Agile",
+      "Scrum",
+      "HTML",
+      "Figma",
+      "Навыки презентации",
+      "Коммуникативные навыки"
+    ]
+  },
+  {
+    "name": "Senior Fullstack разработчик (React / Node.js)",
+    "skills": [
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "FullStack QA - Android",
+    "skills": [
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Аналитик IT (FullStack)",
+    "skills": [
+      "Грамотность",
+      "PostgreSQL",
+      "REST",
+      "JSON API",
+      "Jira",
+      "YouTreck",
+      "Visio",
+      "Техническая документация",
+      "Разработка технических заданий",
+      "Написание технических заданий",
+      "Системное мышление",
+      "Аналитика"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "TypeScript",
+      "NestJS;",
+      "Sequelize"
+    ]
+  },
+  {
+    "name": "Fullstack PHP-разработчик/Web-программист",
+    "skills": [
+      "CSS",
+      "HTML",
+      "MySQL",
+      "PHP",
+      "PHP5",
+      "CMS Wordpress",
+      "Laravel",
+      "1С-Битрикс",
+      "Администрирование сайтов",
+      "JavaScript",
+      "Разработка CMS"
+    ]
+  },
+  {
+    "name": "Fullstack JS low-code разработчик (nocobase)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Git",
+      "HTML",
+      "CSS",
+      "SQL",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Developer",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Vue.JS",
+      "React"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (middle)",
+    "skills": [
+      "Python",
+      "Linux",
+      "GraphQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Web-программист / Fullstack-разработчик Bitrix24",
+    "skills": [
+      "PHP7",
+      "JavaScript",
+      "MySQL",
+      "mssql",
+      "modx",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack QA java (web, backend)",
+    "skills": [
+      "SQL",
+      "Java",
+      "Автоматизированное тестирование",
+      "Ручное тестирование",
+      "Функциональное тестирование",
+      "QA",
+      "Selenide",
+      "Selenium",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Nestjs",
+      "AngularJS",
+      "React",
+      "Redux",
+      "VueJS",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack QA инженер (backend)",
+    "skills": [
+      "SQL",
+      "Python",
+      "Java",
+      "Git",
+      "BDD",
+      "QA"
+    ]
+  },
+  {
+    "name": "Web-разработчик (Fullstack) (в офис)",
+    "skills": [
+      "Ajax",
+      "PHP",
+      "CMS Wordpress",
+      "1С-Битрикс"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик PHP (symfony)",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "MySQL",
+      "REST API",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "VueJS",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-аналитик/Системный/Бизнес-аналитик",
+    "skills": [
+      "SQL",
+      "BPMN",
+      "UML",
+      "JSON API",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Ответственность",
+      "Организаторские навыки"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (React.Js | Node.Js)",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Middle Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Laravel",
+      "JavaScript",
+      "API",
+      "Java",
+      "Аналитическое мышление",
+      "Веб-программирование",
+      "HTML",
+      "CSS3",
+      "Flutter",
+      "SEO",
+      "Ruby",
+      "Figma"
+    ]
+  },
+  {
+    "name": "Fullstack developer Node.JS",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "GraphQL",
+      "SQL",
+      "React",
+      "Webpack",
+      "Frontend",
+      "Backend",
+      "Git",
+      "Scrum",
+      "Agile Project Management",
+      "NestJS"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (Blazor)",
+    "skills": [
+      "Git",
+      "SQL",
+      "JavaScript",
+      "Active Directory",
+      "Blazor",
+      "коннектор",
+      "API",
+      "Docker",
+      "Микросервисная архитектура",
+      "Веб-программирование",
+      "Работа в команде",
+      "ASP.NET Core"
+    ]
+  },
+  {
+    "name": "PHP-разработчик / FullStack",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "API",
+      "jQuery",
+      "SaaS"
+    ]
+  },
+  {
+    "name": "Middle Fullstack разработчик (Python, FastAPI/React) [Платформа Оркестрации, МТС Веб Сервисы]",
+    "skills": [
+      "Python",
+      "React",
+      "FastAPI",
+      "SQL",
+      "REST API",
+      "k8s"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (React + HTML / Java + SCALA)",
+    "skills": [
+      "HTML",
+      "Java",
+      "Адаптивная верстка",
+      "Apache Airflow"
+    ]
+  },
+  {
+    "name": "Team lead Fullstack",
+    "skills": [
+      "TypeScript",
+      "MongoDB",
+      "Node.js",
+      "Redis",
+      "React",
+      "Управление бэклогом",
+      "Стратегический менеджмент",
+      "Управление бизнес процессами"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Python, React)",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "React"
+    ]
+  },
+  {
+    "name": "Team Lead (Fullstack-разработчик)",
+    "skills": [
+      "PHP",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "DevOps",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Node.js)",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Bootstrap",
+      "SQL",
+      "jQuery",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик на JavaScript (React, Node.js, Electron) — Middle/Junior+",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Git",
+      "REST",
+      "PHP",
+      "Docker",
+      "Redis",
+      "Node",
+      "React.js",
+      "React Native",
+      "Electron.js",
+      "Electron"
+    ]
+  },
+  {
+    "name": "Fullstack JS developer",
+    "skills": [
+      "Node.js",
+      "React",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Разработчик Bitrix fullstack Отдела веб-приложений",
+    "skills": [
+      "1С-Битрикс",
+      "HTML",
+      "VUE",
+      "MySQL",
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "Bitrix"
+    ]
+  },
+  {
+    "name": "Fullstack PHP-разработчик, Pre-Middle",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Git",
+      "JavaScript",
+      "API",
+      "REST",
+      "Nginx",
+      "Bitrix",
+      "Верстка"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (Vue.js / Node.js)",
+    "skills": [
+      "Node.js",
+      "MySQL",
+      "REST API",
+      "GitHub",
+      "API",
+      "TypeScript",
+      "JavaScript",
+      "Docker-compose",
+      "HTTPX",
+      "React",
+      "Redis",
+      "Оптимизация кода",
+      "Микросервисная архитектура",
+      "VueJS",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "(Middle+/Senior) Fullstack разработчик PHP, React JS",
+    "skills": [
+      "Laravel",
+      "PHP",
+      "React",
+      "React Native",
+      "PostgreSQL",
+      "Linux",
+      "OAuth",
+      "JWT"
+    ]
+  },
+  {
+    "name": "Fullstack Middle/Senior разработчик-партнер",
+    "skills": [
+      "SQL",
+      "Git",
+      "JavaScript",
+      "PostgreSQL",
+      "Docker",
+      "Linux",
+      "Java",
+      "Kafka",
+      "Atlassian Jira",
+      "Разработка ПО",
+      "UML",
+      "Системный анализ",
+      "REST",
+      "Computer Vision",
+      "Machine Learning",
+      "SPL",
+      "Splunk",
+      "Apache Kafka",
+      "Системное мышление",
+      "Oracle Database",
+      "Управление требованиями",
+      "Jira",
+      "ООП",
+      "React"
+    ]
+  },
+  {
+    "name": "Fullstack developer/Teamlead",
+    "skills": [
+      "PostgreSQL",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "Git",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Git",
+      "SQL",
+      "PostgreSQL",
+      "Linux",
+      "TypeScript",
+      "REST API",
+      "Docker",
+      "GraphQL",
+      "Redis",
+      "gRPC",
+      "VueJS",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PostgreSQL",
+      "Arenadata",
+      "Clickhouse",
+      "ETL",
+      "Apache Airflow",
+      "RabbitMQ",
+      "Kafka"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Laravel и Vue.js)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "JavaScript",
+      "SQL",
+      "Vue.js",
+      "Веб-программирование"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Node.js)",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Bootstrap",
+      "SQL",
+      "jQuery",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Lead Fullstack engineer (React + Node.js)",
+    "skills": [
+      "Node.js",
+      "React",
+      "TypeScript",
+      "Nest.JS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (PL\\SQL + Java)",
+    "skills": [
+      "Java",
+      "Oracle Pl/SQL",
+      "SQL",
+      "Git",
+      "XML",
+      "JSON",
+      "SOAP",
+      "REST"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик fullstack (php + typescript)",
+    "skills": [
+      "Symfony",
+      "PHP",
+      "TypeScript",
+      "VueJS",
+      "React",
+      "SQL",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack Developer С# .Net/ React",
+    "skills": [
+      "React",
+      "SQL",
+      "ASP.NET",
+      ".NET Core",
+      "С#"
+    ]
+  },
+  {
+    "name": "Senior Fullstack разработчик",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React.js",
+      "TypeScript",
+      "Node.js",
+      "PortgreSQL",
+      "CI/CD",
+      "Docker",
+      "Gatsby"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Yii2, vue.js)",
+    "skills": [
+      "PHP",
+      "Linux",
+      "Yii",
+      "VueJS",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Game Developer (Pixi.JS)",
+    "skills": [
+      "Pixi.JS",
+      "HTML5",
+      "CSS3",
+      "Canvas",
+      "JavaScript",
+      "API"
+    ]
+  },
+  {
+    "name": "Разработчик Битрикс24 Fullstack",
+    "skills": [
+      "1С-Битрикс",
+      "Битрикс24",
+      "Bitrix",
+      "jQuery",
+      "REST",
+      "Bitrix24",
+      "PHP",
+      "Kafka",
+      "JavaScript",
+      "Git",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Angular/NodeJS)",
+    "skills": [
+      "Angular",
+      "Node.js",
+      "NestJs"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик (fullstack)",
+    "skills": [
+      "SCADA",
+      "PostgreSQL",
+      "Node.js",
+      "TypeScript",
+      "Electron",
+      "SCSS",
+      "CSS",
+      "HTML5",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик PHP / Bitrix",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "Docker",
+      "CMS Wordpress",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "Git",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "Веб-программирование",
+      "Веб-аналитика"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Python / Vue.js)",
+    "skills": [
+      "Python",
+      "VueJS",
+      "API",
+      "ORM",
+      "PostgreSQL",
+      "Django Rest Framework"
+    ]
+  },
+  {
+    "name": "Senior QA Fullstack Engineer (Java)",
+    "skills": [
+      "Java"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Analyst (Business Analyst / System Analyst)",
+    "skills": [
+      "Системный анализ",
+      "Бизнес-анализ",
+      "BPMN",
+      "UML",
+      "Разработка бизнес-требований",
+      "Разработка нефункциональных требований",
+      "Разработка функциональных требований",
+      "SQL",
+      "Системное мышление"
+    ]
+  },
+  {
+    "name": "Junior Fullstack разработчик (.Net + Angular)",
+    "skills": [
+      "SQL",
+      "Java",
+      "Docker",
+      ".NET Framework",
+      "AngularJS",
+      "MySQL",
+      "jQuery",
+      "Git",
+      "С#"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик Desktop (C++, C#, .NET, Embarcadero C++)",
+    "skills": [
+      "C++",
+      "С#",
+      "JScript",
+      "Оптимизация кода",
+      "Рефакторинг кода",
+      "CI/CD",
+      "JavaScript",
+      "Fullstack",
+      "backend",
+      "Git",
+      ".NET",
+      "Embarcadero C++",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack QA инженер (mobile)",
+    "skills": [
+      "JSON API",
+      "HTTP",
+      "REST API",
+      "Android",
+      "iOS",
+      "Fiddler",
+      "Kotlin",
+      "Swift"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "GitHub",
+      "VueJS",
+      "SQL",
+      "HTML",
+      "Оптимизация кода",
+      "Адаптивная верстка",
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Fullstack QA Engineer Java (Москва)",
+    "skills": [
+      "Java",
+      "REST API",
+      "Git",
+      "Автоматизированное тестирование",
+      "Ручное тестирование",
+      "Postman",
+      "PostgreSQL",
+      "Docker",
+      "Linux",
+      "SQL",
+      "Atlassian Confluence",
+      "Atlassian Jira"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Node.js)",
+    "skills": [
+      "Node.js",
+      "Agile",
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL",
+      "MySQL",
+      "JS",
+      "Vue.js",
+      "MongoDB",
+      "Clickhouse",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Веб-разработчик 1С-Битрикс (Fullstack)",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "HTML",
+      "jQuery",
+      "CSS",
+      "1С"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (C#, React)",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Git",
+      "CSS3",
+      ".Net",
+      "#C"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик 1С-Битрикс (PHP fullstack)",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "backend",
+      "appwrite"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (.Net core, Python, React)",
+    "skills": [
+      "React",
+      ".NET Core",
+      "Docker",
+      "Kubernetes",
+      "Redis",
+      "RabbitMQ",
+      "WebAPI",
+      "Python"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (PHP/Bitrix) Senior",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Bootstrap",
+      "REST",
+      "Nginx",
+      "HTML",
+      "Ajax",
+      "jQuery",
+      "Bitrix"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (JS,PHP)",
+    "skills": [
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "HTML"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Python",
+      "VoIP",
+      "SIP",
+      "Asterisk",
+      "BGP",
+      "FreeSWITCH"
+    ]
+  },
+  {
+    "name": "Fullstack QA (JAVA)",
+    "skills": [
+      "Java",
+      "REST API",
+      "JUnit",
+      "SQL",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик в команду ИБ",
+    "skills": [
+      "Golang",
+      "React"
+    ]
+  },
+  {
+    "name": "Senior FullStack Developer (PHP/Vue) [Маркетолог ПРО, МТС Веб Сервисы]",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "VueJS",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Senior/Middle FullStack разработчик Node.js",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "Docker",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Расходы на флот)",
+    "skills": [
+      "BPMN",
+      "REST API",
+      "Apache Kafka",
+      "SQL",
+      "Atlassian Confluence"
+    ]
+  },
+  {
+    "name": "Fullstack Разработчик (Golang + PostgreSQL + *nix)",
+    "skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Linux",
+      "MySQL",
+      "Go",
+      "HTTP",
+      "Базы данных",
+      "Git"
+    ]
+  },
+  {
+    "name": "Разработчик Fullstack (C#,SQL,TypeScript)",
+    "skills": [
+      "XML",
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (офис, Санкт-Петербург)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "HTML",
+      "JS",
+      "Bootstrap",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack QA (JAVA)",
+    "skills": [
+      "Java",
+      "REST API",
+      "JUnit",
+      "SQL",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Angular, Node js, PHP)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Angular",
+      "PHP"
+    ]
+  },
+  {
+    "name": "(Middle+/Senior) Fullstack разработчик PHP, React JS",
+    "skills": [
+      "Laravel",
+      "PHP",
+      "React",
+      "React Native",
+      "PostgreSQL",
+      "Linux",
+      "OAuth",
+      "JWT"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "backend",
+      "appwrite"
+    ]
+  },
+  {
+    "name": "Fullstack (JAVA/Kotlin) Developer",
+    "skills": [
+      "PostgreSQL",
+      "JavaScript",
+      "Java",
+      "AngularJS"
+    ]
+  },
+  {
+    "name": "Fullstack тестировщик на JAVA",
+    "skills": [
+      "Java",
+      "Apache Kafka",
+      "mobile",
+      "web",
+      "Ручное тестирование"
+    ]
+  },
+  {
+    "name": "Senior Fullstack QA инженер",
+    "skills": [
+      "API",
+      "Java",
+      "Jira",
+      "Kotlin",
+      "Gradle",
+      "Spring",
+      "Rest-assured",
+      "AllureTestOps",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Fullstack Developer C# (офис Таганрог)",
+    "skills": [
+      "C#",
+      ".NET Framework",
+      "Entity Framework",
+      "ООП",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Fullstack Automation Test Engineer (Python)",
+    "skills": [
+      "Python",
+      "Тестирование",
+      "Unix/Linux",
+      "TCP/IP"
+    ]
+  },
+  {
+    "name": "Fullstack PHP разработчик",
+    "skills": [
+      "HTML5",
+      "Git",
+      "yii2",
+      "Laravel",
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Старший Fullstack разработчик (Node.Js + React) со знанием английского языка",
+    "skills": [
+      "Node.js",
+      "React",
+      "SQL",
+      "TypeScript",
+      "JavaScript",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик Bitrix24",
+    "skills": [
+      "SQL",
+      "Битрикс24",
+      "Python",
+      "ERD",
+      "REST API",
+      "ETL",
+      "Power BI",
+      "Tableau",
+      "DevOps"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик ЦНП",
+    "skills": [
+      "Python",
+      "Angular",
+      "SQL",
+      "ООП",
+      "REST",
+      "Mercurial",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "VueJS",
+      "CSS",
+      "HTML",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle Fullstack-разработчик (1С-Битрикс)",
+    "skills": [
+      "1С-Битрикс",
+      "Bitrix Framework",
+      "FullStack-разработка",
+      "PHP",
+      "jQuery",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик TeamLead (PHP, Vue.js)",
+    "skills": [
+      "PHP",
+      "Vue.js",
+      "Teamleading",
+      "SOLID",
+      "Лидерство",
+      "Разработка продукта",
+      "Расстановка приоритетов",
+      "Управление временем",
+      "Оптимизация кода",
+      "Коммуникация",
+      "Agile",
+      "Работа в команде"
+    ]
+  },
+  {
+    "name": "QA Fullstack на JAVA",
+    "skills": [
+      "Java",
+      "SQL",
+      "NoSQL",
+      "Apache Kafka",
+      "RabbitMQ",
+      "QA"
+    ]
+  },
+  {
+    "name": "Fullstack QA Engineer (Java / JS)",
+    "skills": [
+      "Автоматизированное тестирование",
+      "Ручное тестирование",
+      "Java"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "Node.js",
+      "React",
+      "VueJS",
+      "Angular",
+      "REST",
+      "GraphQL",
+      "SQL",
+      "NoSQL",
+      "Azure",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "name": "FullStack/Real-Time Video Streaming Developer",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "TCP"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (.net)",
+    "skills": [
+      "C#",
+      ".NET Framework"
+    ]
+  },
+  {
+    "name": "FullStack Developer (Java/React)",
+    "skills": [
+      "Java",
+      "React",
+      "Spring Cloud",
+      "Docker"
+    ]
+  },
+  {
+    "name": ".NET FullStack Developer",
+    "skills": [
+      ".NET",
+      "ASP.NET Core",
+      "ASP.NET"
+    ]
+  },
+  {
+    "name": "Fullstack QA ( С#) специалист",
+    "skills": [
+      "C#",
+      "MS Visual Studio",
+      "Apache Kafka",
+      "Jenkins"
+    ]
+  },
+  {
+    "name": "Fullstack(С#+React+TS) специалист",
+    "skills": [
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "name": "Разработчик PHP (yii 2.0, fullstack) / ведущий специалист",
+    "skills": [
+      "PHP",
+      "Yii",
+      "PostgreSQL",
+      "JavaScript",
+      "VueJS",
+      "Git"
+    ]
+  },
+  {
+    "name": "Системный/Бизнес аналитик (Fullstack аналитик)",
+    "skills": [
+      "Figma",
+      "Swagger",
+      "Postman",
+      "Бизнес-анализ",
+      "Системный анализ",
+      "Анализ требований",
+      "Постановка задач разработчикам",
+      "BPMN",
+      "UML",
+      "SQL",
+      "Описание логической модели баз данных",
+      "web-сервисы",
+      "API"
+    ]
+  },
+  {
+    "name": "Разработчик Bitrix fullstack Отдела веб-приложений",
+    "skills": [
+      "1С-Битрикс",
+      "HTML",
+      "VUE",
+      "MySQL",
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "Bitrix"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (.NET/Angular) в команду RateMatch/RateShopper",
+    "skills": [
+      ".NET Core",
+      "MS SQL",
+      "C#",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "DDD",
+      "Clean Architecture",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Pre-Middle FullStack (.NET+ React/Angular) developer",
+    "skills": [
+      "Английский язык",
+      ".NET Core",
+      "ASP.NET Core",
+      "Angular",
+      "React",
+      "C#"
+    ]
+  },
+  {
+    "name": "Python-разработчик (Fullstack) ( FAST API, VUE) для fintech-стартапа",
+    "skills": [
+      "Python",
+      "VueJS",
+      "FastAPI",
+      "SQLAlchemy",
+      "Alembic",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Ведущий программист (Fullstack)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      ".Net",
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior fullstack developer C# .NET 8/Vue 3 TS",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Entity Framework",
+      "PostgreSQL",
+      "MS SQL",
+      "ORACLE",
+      "MongoDB",
+      "Redis",
+      "OAuth",
+      "Микросервисная архитектура",
+      "ODATA",
+      "GraphQL",
+      "Agile",
+      "TypeScript",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (.NET + Angular)",
+    "skills": [
+      "Angular",
+      "PostgreSQL",
+      "SQL",
+      ".NET Core",
+      ".NET Framework",
+      "C#",
+      "Apache Kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Экономика рейсов)",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Построение витрин"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (PHP + Vue) Middle++",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": ".NET+VueJs Fullstack Developer",
+    "skills": [
+      "С#",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "SQL",
+      "VueJS",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Middle/Senior Fullstack-разработчик (.NET)",
+    "skills": [
+      "C#",
+      "MS SQL",
+      "PostgreSQL",
+      "React",
+      ".NET Core",
+      "TypeScript",
+      "ASP.NET"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Vue.JS",
+      "React"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (TypeScript, Vue3)",
+    "skills": [
+      "TypeScript",
+      "VueJS",
+      "RabbitMQ",
+      "TCP/IP",
+      "SOLID",
+      "MongoDB",
+      "Linux",
+      "Golang",
+      "Python",
+      "Работа в команде"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Разработчик",
+    "skills": [
+      "VueJS",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Developer (PHP + JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "PostgreSQL",
+      "ООП",
+      "VueJS",
+      "RabbitMQ",
+      "Docker",
+      "Git",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик на JavaScript (React, Node.js, Electron) — Middle/Junior+",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Git",
+      "REST",
+      "PHP",
+      "Docker",
+      "Redis",
+      "Node",
+      "React.js",
+      "React Native",
+      "Electron.js",
+      "Electron"
+    ]
+  },
+  {
+    "name": "Fullstack developer (Vue | Node.js)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "VueJS",
+      "HTML",
+      "Node.js",
+      "PostgreSQL",
+      "REST API",
+      "Git",
+      "Микросервисная архитектура",
+      "GCP (Good Clinical Practice)"
+    ]
+  },
+  {
+    "name": "Программист PHP Backend/Fullstack (Middle+)",
+    "skills": [
+      "Symfony",
+      "Kafka",
+      "Golang",
+      "PHP",
+      "jQuery",
+      "GraphQL",
+      "Keycloak",
+      "RabbitMQ",
+      "Docker",
+      "Composer",
+      "PostgreSQL",
+      "MySQL",
+      "Адаптер",
+      "Декоратор",
+      "Singleton",
+      "RestApi",
+      "Yii2",
+      "Middle",
+      "Php Developer"
+    ]
+  },
+  {
+    "name": "JS Fullstack Инженер (Node.js + Vue.js)",
+    "skills": [
+      "MongoDB",
+      "Git",
+      "CSS",
+      "ООП",
+      "Node.js",
+      "Docker",
+      "Vue.js"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "Ответственность",
+      "Организаторские навыки"
+    ]
+  },
+  {
+    "name": "Senior Fullstack QA инженер",
+    "skills": [
+      "API",
+      "Java",
+      "Jira",
+      "Kotlin",
+      "Gradle",
+      "Spring",
+      "Rest-assured",
+      "AllureTestOps",
+      "SQL"
+    ]
+  },
+  {
+    "name": "FullStack разработчик (Vue, Node, React, TS)",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "MySQL",
+      "React",
+      "NodeJS",
+      "GraphQL",
+      "Next.js",
+      "Vue",
+      "ORM",
+      "Express.js",
+      "Nest.js",
+      "composition api",
+      "Vuetify",
+      "Docker",
+      "Docker-compose"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Yii2, vue.js)",
+    "skills": [
+      "PHP",
+      "Linux",
+      "Yii",
+      "VueJS",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Web Fullstack разработчик (PHP, JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "React",
+      "Redux",
+      "MySQL",
+      "PostgreSQL",
+      "REST API",
+      "Linux"
+    ]
+  },
+  {
+    "name": "FullStack/Real-Time Video Streaming Developer",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "TCP"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer (Java and React)",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "Kubernetes",
+      "Quarkus",
+      "Camunda",
+      "Eclipse Vert.x",
+      "Keycloak",
+      "React"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (PHP, JavaScript, TypeScript)",
+    "skills": [
+      "Linux",
+      "Git",
+      "PHP",
+      "TypeScript",
+      "Laravel",
+      "JavaScript",
+      "MySQL",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик Битрикс",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "HTML",
+      "CSS",
+      "Адаптивная верстка"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (RQM)",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Apache Kafka",
+      "XML",
+      "UML",
+      "JSON"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (Элфиндо)",
+    "skills": [
+      "BPMN",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (.NET + Angular)",
+    "skills": [
+      "Angular",
+      "Оптимизация кода",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (PHP + Vue.js)",
+    "skills": [
+      "PHP",
+      "Git",
+      "JavaScript",
+      "1С-Битрикс",
+      "VueJS",
+      "REST API",
+      "JSON API",
+      "Figma",
+      "PageSpeed",
+      "Bitrix",
+      "Nginx",
+      "Linux",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик PHP / Bitrix",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "Docker",
+      "CMS Wordpress",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Senior Fullstack web-разработчик",
+    "skills": [
+      "SQL",
+      "HTML",
+      "Автоматизированное тестирование",
+      "Ручное тестирование",
+      "Наставничество"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (Nuxt.js SSR / PHP 8 / WinterCMS)",
+    "skills": [
+      "TypeScript",
+      "VueJS",
+      "HTML",
+      "PHP",
+      "GitLab CI",
+      "Git",
+      "Flutter",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Vue.JS",
+      "React"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик (SAP)",
+    "skills": [
+      "Аналитическое мышление",
+      "SQL",
+      "BPMN",
+      "UML",
+      "Бизнес-анализ",
+      "Анализ данных",
+      "Atlassian Jira",
+      "Работа с базами данных",
+      "Моделирование бизнес процессов",
+      "Разработка технических заданий",
+      "SAP ERP",
+      "Scrum",
+      "Системный анализ",
+      "SAP",
+      "SAP MM",
+      "SAP SD",
+      "REST API",
+      "Apache Kafka",
+      "Swagger",
+      "Postman",
+      "Atlassian Confluence"
+    ]
+  },
+  {
+    "name": "FullStack Developer (Java/React)",
+    "skills": [
+      "Java",
+      "React",
+      "Docker",
+      "Apache Maven",
+      "Git"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Node.js + React / PHP)",
+    "skills": [
+      "PHP",
+      "React",
+      "Node.js",
+      "Английский язык",
+      "PHPUnit",
+      "Symfony",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "FullStack/Real-Time Video Streaming Developer",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "TCP"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (PHP, JavaScript, HTML, CSS, MySQL)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "jQuery",
+      "JS",
+      "Bitrix",
+      "OpenCart",
+      "HTML",
+      "CSS",
+      "REST API",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Engineer (Java+ExtJS)",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "PostgreSQL",
+      "JavaScript",
+      "REST API",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Senior Fullstack разработчик",
+    "skills": [
+      "HTML",
+      "MySQL",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (.NET / Angular)",
+    "skills": [
+      ".NET Core",
+      "ASP.NET",
+      "AngularJS",
+      "REST API",
+      "Apache Kafka",
+      "Redis",
+      "TypeScript",
+      "Docker",
+      "Kubernetes",
+      "C#"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Django + React Developer (Outstaffing)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "React",
+      "REST API",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Senior Fullstack QA engineer (JS/TS), мультиоркестратор",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Базы данных",
+      "REST",
+      "API",
+      "Postman",
+      "Swagger",
+      "BPMN",
+      "SOAP",
+      "Atlassian Jira",
+      "Atlassian Confluence",
+      "Java"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик на Битрикс 24",
+    "skills": [
+      "JavaScript",
+      "VueJS",
+      "React",
+      "SPA",
+      "REST API",
+      "Webpack"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (C# / Angular)",
+    "skills": [
+      "PostgreSQL",
+      "C#",
+      "MS SQL Server",
+      ".NET Framework",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Git",
+      "PostgreSQL",
+      "Python",
+      "Удаленная работа",
+      "Java Script"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (Laravel, РНР, Vue)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "VueJS",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Fullstack Developer (.NET/Angular) в команду Помощник",
+    "skills": [
+      ".NET Core",
+      "MS SQL",
+      "C#",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "DDD",
+      "Clean Architecture"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Bitrix, JavaScript)",
+    "skills": [
+      "Git",
+      "API",
+      "JavaScript",
+      "PHP",
+      "1С-Битрикс",
+      "jQuery",
+      "VueJS",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (Yii2, vue.js)",
+    "skills": [
+      "Linux",
+      "PHP",
+      "Yii",
+      "VueJS",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик 1С-Битрикс (PHP fullstack)",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (программист) PHP, Java Script",
+    "skills": [
+      "JavaScript",
+      "PHP",
+      "GitHub",
+      "Laravel",
+      "MySQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "FullStack / BackEnd - разработчик 1C-Bitrix CMS | WP | JS | PHP",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PHP5",
+      "Vue.js",
+      "JavaScript",
+      "Веб-программирование",
+      "Git",
+      "MySQL",
+      "REST",
+      "API",
+      "PHP7",
+      "VueJS",
+      "JS",
+      "Битрикс 24",
+      "GitHub",
+      "SQL",
+      "PHP8",
+      "CMS Bitrix"
+    ]
+  },
+  {
+    "name": "Tech Lead Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Senior Fullstack Developer .NET/Angular (RnD team)",
+    "skills": [
+      ".NET Core",
+      "PostgreSQL",
+      "Angular",
+      "Nginx",
+      "Zabbix"
+    ]
+  },
+  {
+    "name": "Fullstack аналитик Senior (с опытом в B2G)",
+    "skills": [
+      "SQL",
+      "API",
+      "REST",
+      "SOAP",
+      "XML",
+      "ERD",
+      "BPMN",
+      "UML",
+      "ГОСТ",
+      "СМЭВ"
+    ]
+  },
+  {
+    "name": "Разработчик / fullstack разработчик / web разработчик",
+    "skills": [
+      "PostgreSQL",
+      "JS",
+      "Удаленная работа",
+      "Ruby On Rails",
+      "React"
+    ]
+  },
+  {
+    "name": "FullStack разработчик (React + TS + C#)",
+    "skills": [
+      ".NET Core",
+      "C#",
+      "SQL",
+      "ORM"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик PHP/JS",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Git",
+      "JavaScript",
+      "jQuery",
+      "MVC",
+      "REST API",
+      "Redis",
+      "VueJS",
+      "Sphinx",
+      "Кроссбраузерная верстка",
+      "Wordpress",
+      "Bootstrap",
+      "Адаптивная верстка",
+      "Sass",
+      "SOLID",
+      "JSON API"
+    ]
+  },
+  {
+    "name": "Senior Fullstack (Java+Angular) Developer",
+    "skills": [
+      "Java",
+      "Angular",
+      "Spring Boot",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack web-разработчик (Vue.js/Nuxt.js) - Минск",
+    "skills": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "nuxt",
+      "vue",
+      "vue.js",
+      "Nuxt.js",
+      "SSR",
+      "ООП",
+      "Node.js",
+      "MongoDB",
+      "Mongoose.js"
+    ]
+  },
+  {
+    "name": "Fullstack разработчик (PHP/Laravel, VUEjs, PostgreSQL)",
+    "skills": [
+      "MySQL",
+      "Git",
+      "PHP5",
+      "Linux",
+      "JavaScript",
+      "PHP",
+      "VUE",
+      "Nuxt"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "React",
+      "TypeScript",
+      "NestJS",
+      "BullMQ",
+      "PostgreSQL",
+      "Redis",
+      "Recoil",
+      "Nx",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик (1С-Битрикс, поддержка сайтов)",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "GitHub",
+      "MySQL",
+      "Внутренняя оптимизация сайта",
+      "HTML5",
+      "CSS3",
+      "Адаптивная верстка",
+      "Работа в команде",
+      "Верстка сайтов",
+      "REST API",
+      "Bootstrap",
+      "Битрикс24"
+    ]
+  },
+  {
+    "name": "FullStack - разработчик Vue JS| JS | Laravel | PHP",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PHP5",
+      "Vue.js",
+      "JavaScript",
+      "Веб-программирование",
+      "Git",
+      "MySQL",
+      "REST",
+      "API",
+      "PHP7",
+      "VueJS",
+      "JS",
+      "Битрикс 24",
+      "GitHub",
+      "SQL",
+      "PHP8",
+      "CMS Bitrix"
+    ]
+  },
+  {
+    "name": "Fullstack JavaScript Developer",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind CSS",
+      "Docker",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "skills": [
+      "VueJS",
+      "Yii",
+      "PHP",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик web3",
+    "skills": [
+      "Web3",
+      "Английский язык",
+      "websockets",
+      "CEX",
+      "Prometheus",
+      "Grafana",
+      "GraphQL",
+      "Git",
+      "REST API",
+      "Crypto",
+      "websocket",
+      "Python",
+      "ByBit API",
+      "CCXT",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Rust"
+    ]
+  },
+  {
+    "name": "Fullstack-разработчик на короткий проект (рефакторинг PY, работа с React)",
+    "skills": [
+      "Веб-программирование",
+      "ИТ-архитектура",
+      "React",
+      "Python",
+      "Flask"
+    ]
+  }
+]

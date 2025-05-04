@@ -1,0 +1,7825 @@
+[
+  {
+    "name": "Backend-разработчик (junior)",
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "HTTP",
+      "WS",
+      "MAVLink"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "REST API",
+      "Node.js",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Junior Backend Developer (младший разработчик)",
+    "skills": [
+      "MySQL",
+      "SQL",
+      "Linux",
+      "PHP",
+      "Git",
+      "Golang"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Frontend\\Backend Developers",
+    "skills": [
+      "React Native",
+      "GitHub",
+      "React",
+      "Python",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Back-end разработчик",
+    "skills": [
+      "SQL",
+      "ORACLE",
+      "Java",
+      "Spring",
+      "Maven",
+      "API",
+      "Oracle Pl/SQL"
+    ]
+  },
+  {
+    "name": "Junior Backend Developer",
+    "skills": [
+      "Ruby On Rails",
+      "Git",
+      "Ruby",
+      "PostgreSQL",
+      "Golang",
+      "Apache Kafka",
+      "WebSockets",
+      "ООП",
+      "Microservices"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "Python",
+      "API",
+      "MongoDB",
+      "REST API",
+      "SQL",
+      "Redis",
+      "GitLab CI",
+      "Разработка ПО",
+      "Английский язык",
+      "Linux",
+      "Docker",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "Инженер по тестированию backend (QA manual)",
+    "skills": [
+      "Git",
+      "Linux",
+      "QA",
+      "Postman",
+      "Ручное тестирование"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP/GO",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Linux",
+      "Nginx",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Junior Python Backend Developer",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle .NET Developer (С#) (Backend)",
+    "skills": [
+      "С#",
+      "MySQL",
+      "ASP.NET",
+      "Разработка ПО",
+      "Работа с базами данных",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Backend QA Engineer / Тестировщик ПО",
+    "skills": [
+      "REST",
+      "API",
+      "QA",
+      "Postman",
+      "JavaScript",
+      "Ручное тестирование",
+      "Тестирование API",
+      "Тестирование",
+      "Android Studio",
+      "REST API",
+      "CI/CD",
+      "ChromeDevTools",
+      "Backend testing",
+      "Тестирование бэка",
+      "Swagger",
+      "SoapUI",
+      "Git",
+      "Gitlab",
+      "TeamCity"
+    ]
+  },
+  {
+    "name": "Backend разработчик РНР (Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Filament",
+      "Redis",
+      "MySQL",
+      "JavaScript",
+      "Docker",
+      "Git",
+      "Nginx",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend разработчик (golang)",
+    "skills": [
+      "Git",
+      "Docker",
+      "SQL",
+      "Golang",
+      "go"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "MS SQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Golang)",
+    "skills": [
+      "Golang",
+      "Docker",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Python",
+      "Linux",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP + GO (Junior+ / Middle)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "ООП",
+      "Golang",
+      "NoSQL",
+      "RabbitMQ",
+      "Apache Kafka",
+      "Redis",
+      "Celery",
+      "CI/CD",
+      "Docker",
+      "Jenkins"
+    ]
+  },
+  {
+    "name": "Middle+ backend developer Kotlin",
+    "skills": [
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (Java/Kotlin, Spring Boot, Oracle Database)",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Spring Framework",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Java)",
+    "skills": [
+      "Разработка ПО",
+      "Работа с базами данных",
+      "Java",
+      "Spring Framework",
+      "Apache Maven",
+      "Hibernate ORM",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Senior Backend Engineer",
+    "skills": [
+      "Python",
+      "Английский язык",
+      "TypeScript",
+      "AWS",
+      "Big Data",
+      "Node.js",
+      "PostgreSQL",
+      "Clickhouse",
+      "Apache Kafka",
+      "Golang",
+      "ECS"
+    ]
+  },
+  {
+    "name": "Laravel backend разработчик",
+    "skills": [
+      "Laravel",
+      "Codeigniter",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Junior/Middle Backend-разработчик на Ruby",
+    "skills": [
+      "Ruby",
+      "Ruby On Rails",
+      "ООП",
+      "PostgreSQL",
+      "REST",
+      "Nginx",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Backend разработчик на PHP",
+    "skills": [
+      "PHP",
+      "Yii",
+      "Laravel",
+      "MySQL",
+      "OpenStack",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Docker",
+      "Git",
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "TypeScript",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Junior+/Middle backend разработчик (Java/Kotlin)",
+    "skills": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PostgreSQL",
+      "RabbitMQ",
+      "Docker-compose",
+      "Django Rest Framework",
+      "Kubernetes",
+      "Микросервисная архитектура",
+      "Рефакторинг кода",
+      "Redis",
+      "Gitlab"
+    ]
+  },
+  {
+    "name": "Backend-developer (Middle/Senior)",
+    "skills": [
+      "Python",
+      "Linux",
+      "Git",
+      "Flask",
+      "SQLAlchemy"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Go)",
+    "skills": [
+      "Go",
+      "Golang",
+      "Redis",
+      "gRPC",
+      "Apache Kafka",
+      "PostgreSQL",
+      "Clickhouse",
+      "Kubernetes",
+      "Prometheus"
+    ]
+  },
+  {
+    "name": "Backend-разработчик в стартап",
+    "skills": [
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Django Framework",
+      "Django Rest Framework",
+      "SQL",
+      "FastAPI",
+      "Celery",
+      "Docker",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Java Back-end Developer",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "Spring Core (CI\\DI)",
+      "Английский язык",
+      "Работа в условиях многозадачности",
+      "Коммуникабельность, ответственность",
+      "HTML5",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (Python)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "FastAPI",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик / Backend Developer",
+    "skills": [
+      "Английский — B1 — Средний",
+      "django",
+      "MSSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Back-end Developer / Backend-разработчик (PHP, Битрикс)",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP",
+      "Bitrix",
+      "Docker",
+      "REST API",
+      "1С-Битрикс",
+      "RabbitMQ",
+      "jQuery",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Atomic Mail)",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "API",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Node.js",
+      "PHP",
+      "Python",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "MySQL",
+      "Рефакторинг кода",
+      "PHP",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Junior Python Backend Developer",
+    "skills": [
+      "Python",
+      "Atlassian Jira",
+      "ROS",
+      "Pytest",
+      "Carla",
+      "Git",
+      "CI"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Java, middle)",
+    "skills": [
+      "Java",
+      "PostgreSQL",
+      "Spring Framework",
+      "Docker",
+      "Spring Boot",
+      "Apache Kafka",
+      "Apache NiFi"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "WebSocket",
+      "SQL",
+      "RabbitMQ",
+      "Apache Kafka",
+      "Git",
+      "SOLID",
+      "DRY",
+      "KISS",
+      "CI/CD",
+      "k8s",
+      "LLM",
+      "Celery",
+      "Grafana",
+      "Prometheus"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Python + Telegram API)",
+    "skills": [
+      "Python",
+      "Docker",
+      "Постановка задач разработчикам",
+      "API",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Frontend-Backend разработчик (Python)",
+    "skills": [
+      "Python",
+      "Node.js",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "SQL",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Node.js",
+      "PHP",
+      "Python",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle Java developer (back-end) разработчик",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "JUnit",
+      "Mockito",
+      "NoSQL",
+      "PostgreSQL",
+      "MapStruct",
+      "Spring Security",
+      "Apache Maven",
+      "Apache Kafka",
+      "Intellij IDEA",
+      "Spring Data",
+      "SOAP Client",
+      "Postman",
+      "Spring Web",
+      "Spring Framework",
+      "SoapUI"
+    ]
+  },
+  {
+    "name": "Backend Middle Developer / Python разработчик",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "PostgreSQL",
+      "Redis",
+      "Работа в команде"
+    ]
+  },
+  {
+    "name": "Backend-разработчик node.js",
+    "skills": [
+      "Node.js",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "MySQL",
+      "PostgreSQL",
+      "Git",
+      "Docker",
+      "Celery",
+      "Redis",
+      "Django Rest Framework",
+      "Nginx",
+      "Aiogram",
+      "Loguru"
+    ]
+  },
+  {
+    "name": "Backend python developer",
+    "skills": [
+      "Python",
+      "asyncio",
+      "Selenium",
+      "Postman",
+      "Git",
+      "FastAPI",
+      "Парсинг данных"
+    ]
+  },
+  {
+    "name": "Java Backend Developer (junior)",
+    "skills": [
+      "Java",
+      "Git",
+      "Hibernate",
+      "Apache Maven",
+      "Spring Boot"
+    ]
+  },
+  {
+    "name": "Junior -back-end разработчик",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "NestJS",
+      "PostgreSQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Middle Backend-developer (Golang)",
+    "skills": [
+      "Golang",
+      "Docker",
+      "Docker-compose",
+      "Node.js",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Джуниор Backend-разработчик (Java/Kotlin)",
+    "skills": [
+      "Java",
+      "Git",
+      "SQL",
+      "Spring Framework",
+      "REST API",
+      "Jenkins",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Python Back-end Разработчик (веб-сервисы) / Python Back-end Developer (web services)",
+    "skills": [
+      "Python",
+      "Linux",
+      "PostgreSQL",
+      "Flask",
+      "Redis",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Senior Python Backend разработчик",
+    "skills": [
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker-compose",
+      "GitLab CI",
+      "kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Java Backend разработчик",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "Hibernate ORM",
+      "REST"
+    ]
+  },
+  {
+    "name": "Python backend developer (FastAPI)",
+    "skills": [
+      "PostgreSQL",
+      "Django Framework",
+      "MySQL",
+      "Redis",
+      "MongoDB",
+      "Flask",
+      "Scrum",
+      "REST",
+      "Kubernetes",
+      "Docker",
+      "InfluxDB",
+      "Jenkins",
+      "Git",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Backend разработчик (PHP + Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Git"
+    ]
+  },
+  {
+    "name": "Тестировщик FinTech (интеграционное и backend-тестирование)",
+    "skills": [
+      "Интеграционное тестирование",
+      "Postman",
+      "Java",
+      "SQL",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Бэкенд разработчик (PHP)",
+    "skills": [
+      "Linux",
+      "HTTP",
+      "PHP7",
+      "PHP8",
+      "Symfony",
+      "PHP",
+      "PostgreSQL",
+      "Git",
+      "Nginx",
+      "ООП",
+      "TCP/IP",
+      "Bash"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Нейронные сети",
+      "Docker",
+      "REST API",
+      "SQL",
+      "Python",
+      "Работа с базами данных",
+      "ChatGPT",
+      "Классическое машинное обучение"
+    ]
+  },
+  {
+    "name": "Junior Backend разработчик",
+    "skills": [
+      "Docker",
+      "Node.js",
+      "Nest.js",
+      "Express"
+    ]
+  },
+  {
+    "name": "Django Backend Strong Junior",
+    "skills": [
+      "CI/CD",
+      "Django Framework",
+      "REST API",
+      "aiogram 3",
+      "Jira",
+      "Agile",
+      "Problem solving",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Срочно программист со знанием Php,Laravel, API, JavaScript, знание английского приветствуется",
+      "Оптимизация кода",
+      "Laravel",
+      "Django Rest Framework"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Kotlin / Java)",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Boot",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Back-end разработчик PHP",
+    "skills": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "RabbitMQ",
+      "Redis",
+      "Memcached",
+      "Swoole",
+      "Docker",
+      "Docker-compose",
+      "Gitlab",
+      "CI/CD",
+      "Nginx",
+      "PHPUnit"
+    ]
+  },
+  {
+    "name": "Senior backend developer (C# .NET 8)",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Entity Framework",
+      "PostgreSQL",
+      "MS SQL",
+      "ORACLE",
+      "MongoDB",
+      "Redis",
+      "OAuth",
+      "Микросервисная архитектура",
+      "ODATA",
+      "GraphQL",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Backend developer (PHP)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "SQL",
+      "Git",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PHP",
+      "Git",
+      "PostgreSQL",
+      "Memcached",
+      "Backend",
+      "Redis",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQLAclhemy",
+      "HTTP",
+      "REST API",
+      "Alembic",
+      "Pydantic",
+      "MySQL",
+      "Linux",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PHP",
+      "Python",
+      "REST API",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend developer (PHP)",
+    "skills": [
+      "PHP",
+      "Docker",
+      "REST API",
+      "Git",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP, Laravel) на проектную работу",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "REST API",
+      "Docker",
+      "Git",
+      "SOLID",
+      "API",
+      "Рефакторинг кода",
+      "Оптимизация кода",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Middle) Java",
+    "skills": [
+      "Jmix",
+      "CUBA",
+      "Git",
+      "BPMS",
+      "SQL-запросы",
+      "ТЕЗИС",
+      "Java",
+      "Fullstack"
+    ]
+  },
+  {
+    "name": "Backend-разработчик / Backend Developer",
+    "skills": [
+      "Английский — B1 — Средний",
+      "django",
+      "MSSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Python",
+      "Java",
+      "Ruby",
+      "PHP",
+      "Node.js",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Python backend Developer",
+    "skills": [
+      "Python",
+      "Apache Kafka",
+      "PostgreSQL",
+      "MongoDB",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (PHP)",
+    "skills": [
+      "PHP",
+      "Redis",
+      "MySQL",
+      "Clickhouse",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик на PHP",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "REST API",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Java",
+      "Git",
+      "Atlassian Confluence"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Git",
+      "MVC",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (.NET)",
+    "skills": [
+      "С#",
+      ".NET",
+      "EF.Core",
+      "PostgreSQL",
+      "REST",
+      "Docker",
+      "MinIO",
+      "Gitlab",
+      "Apache Kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Node.js Backend Developer (Nest.js, Uniteller)",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Redis",
+      "Docker",
+      "TypeScript",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Интеграция программных модулей",
+      "Python",
+      "Git",
+      "Оптимизация кода",
+      "SQL",
+      "API",
+      "CI/CD",
+      "Gitlab",
+      "Алгоритмы и структуры данных",
+      "Код-ревью"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Интеграция программных модулей",
+      "Python",
+      "Git",
+      "Оптимизация кода",
+      "SQL",
+      "API",
+      "CI/CD",
+      "Gitlab",
+      "Алгоритмы и структуры данных",
+      "Код-ревью"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Django Rest Framework",
+      "FastAPI",
+      "ORM"
+    ]
+  },
+  {
+    "name": "Java Backend Developer",
+    "skills": [
+      "Java 11",
+      "Apache Maven",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Apache Solr",
+      "Apache Velocity Project",
+      "Hibernate",
+      "Nginx",
+      "Keycloak"
+    ]
+  },
+  {
+    "name": "Backend PHP-разработчик (Laravel)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "PostgreSQL",
+      "REST API",
+      "Docker",
+      "API",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Backend developer PHP (Laravel)",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "MySQL",
+      "Laravel",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend разработчик - Php, Laravel (Офис/Москва)",
+    "skills": [
+      "MySQL",
+      "Docker",
+      "PHP",
+      "Laravel",
+      "Gitlab",
+      "Git",
+      "Golang"
+    ]
+  },
+  {
+    "name": "Middle Backend developer, C#",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "Redis"
+    ]
+  },
+  {
+    "name": "PHP Backend-разработчик",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PostgreSQL",
+      "REST API",
+      "PHP",
+      "Laravel",
+      "API",
+      "Рефакторинг кода"
+    ]
+  },
+  {
+    "name": "Java backend разработчик",
+    "skills": [
+      "Java",
+      "SQL",
+      "Spring Data",
+      "Spring Framework",
+      "Git",
+      "Kafka",
+      "PostgreSQL",
+      "REST"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "MySQL",
+      "Python",
+      "MongoDB",
+      "Docker",
+      "PostgreSQL",
+      "REST API",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Back-end разработчик PHP+Go (Middle)",
+    "skills": [
+      "PHP",
+      "Golang",
+      "Clickhouse",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Redis",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Junior Backend разработчик (Python, Django, GraphQL)",
+    "skills": [
+      "GraphQL",
+      "Python",
+      "Django Framework",
+      "PostgreSQL",
+      "Git",
+      "Linux",
+      "ООП"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "JavaScript",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "RESTful API",
+      "Python"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Интеграция программных модулей",
+      "Python",
+      "Git",
+      "Оптимизация кода",
+      "SQL",
+      "API",
+      "CI/CD",
+      "Gitlab",
+      "Алгоритмы и структуры данных",
+      "Код-ревью"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "SOLID",
+      "Kotlin",
+      "Оптимизация кода",
+      "REST API",
+      "Базы данных"
+    ]
+  },
+  {
+    "name": "Junior Back-end разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "CSS3",
+      "MySQL",
+      "ООП",
+      "Linux",
+      "Laravel",
+      "Yii",
+      "JS",
+      "1С-Битрикс",
+      "Битрикс24"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Node.js, NestJS, Postgres)",
+    "skills": [
+      "Git",
+      "Node.js",
+      "nestjs",
+      "PostgreSQL",
+      "WebSocket",
+      "Redis",
+      "Prisma",
+      "Sequelize",
+      "Telegram Bot API",
+      "Telegram",
+      "CI/CD",
+      "Gitlab"
+    ]
+  },
+  {
+    "name": "Senior Python Developer Backend",
+    "skills": [
+      "B2B",
+      "Python",
+      "Git",
+      "Flask"
+    ]
+  },
+  {
+    "name": "Backend PHP-разработчик bigdata",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "Yii",
+      "SQL",
+      "MySQL",
+      "Git",
+      "Clickhouse"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Интеграция программных модулей",
+      "Python",
+      "Git",
+      "Оптимизация кода",
+      "SQL",
+      "API",
+      "CI/CD",
+      "Gitlab",
+      "Алгоритмы и структуры данных",
+      "Код-ревью"
+    ]
+  },
+  {
+    "name": "Java-разработчик (Backend-разработчик)",
+    "skills": [
+      "Java",
+      "Agile",
+      "REST API",
+      "SQL",
+      "PostgreSQL",
+      "Apache Kafka",
+      "Стратегия тестирования",
+      "Анализ требований",
+      "Алгоритмы и структуры данных"
+    ]
+  },
+  {
+    "name": "Backend-разработчик на GOlang",
+    "skills": [
+      "Git",
+      "GitHub",
+      "Gitlab",
+      "REST API",
+      "Golang",
+      "Рефакторинг кода",
+      "Оптимизация кода",
+      "Architecture Framework",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Docker",
+      "REST API",
+      "Redis",
+      "Gitlab",
+      "GitHub",
+      "MongoDB",
+      "API",
+      "Django Rest Framework",
+      "FastAPI",
+      "NoSQL",
+      "SQL",
+      "Django Framework",
+      "CI/CD",
+      "Docker-compose",
+      "Celery",
+      "Swagger",
+      "Clickhouse",
+      "Git",
+      "Оптимизация кода",
+      "Рефакторинг кода",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Backend Engineer (Go)",
+    "skills": [
+      "go",
+      "gcp",
+      "aws",
+      "PostgreSQL",
+      "backend"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP",
+    "skills": [
+      "PHP",
+      "Yii"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Django Framework",
+      "Docker",
+      "Python"
+    ]
+  },
+  {
+    "name": "Junior Back-end разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "CSS3",
+      "MySQL",
+      "ООП",
+      "Linux",
+      "Laravel",
+      "Yii",
+      "JS",
+      "1С-Битрикс",
+      "Битрикс24"
+    ]
+  },
+  {
+    "name": "Backend C++ developer (Gamedev)",
+    "skills": [
+      "C++",
+      "STL",
+      "TBB",
+      "SQL",
+      "Boost",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Middle PHP backend разработчик",
+    "skills": [
+      "PHP",
+      "Базы данных",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PostgreSQL",
+      "RabbitMQ",
+      "REST API",
+      "Linux",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Web-разработчик / Backend программист Python",
+    "skills": [
+      "Python",
+      "Git",
+      "PostgreSQL",
+      "Linux",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Junior+/Middle Backend Developer (Python, FastAPI, PostgreSQL)",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Web-разработчик / Backend / Frontend",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Laravel",
+      "React",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Backend developer (PHP, Laravel)",
+    "skills": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "Backend",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Kotlin/Java (junior)",
+    "skills": [
+      "Git",
+      "Spring Framework",
+      "SQL",
+      "Java",
+      "XML"
+    ]
+  },
+  {
+    "name": "Kotlin/Java Backend Разработчик",
+    "skills": [
+      "Git",
+      "Kotlin",
+      "PostgreSQL",
+      "Spring Framework",
+      "Java",
+      "Ktor",
+      "Scrum",
+      "Docker",
+      "Swagger"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Node.js)",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "Docker",
+      "PostgreSQL",
+      "GitHub",
+      "CI/CD",
+      "TypeScript",
+      "MongoDB",
+      "Node.js",
+      "RabbitMQ",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Бэкенд разработчик (Middle)",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "React Native"
+    ]
+  },
+  {
+    "name": "Backend-разработчик / Web - разработчик",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (middle)",
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "HTTP",
+      "WS",
+      "MAVLink"
+    ]
+  },
+  {
+    "name": "Web-разработчик Backend",
+    "skills": [
+      "PHP",
+      "Docker",
+      "MySQL",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Back-end разработчик",
+    "skills": [
+      "MySQL",
+      "RabbitMQ",
+      "Laravel",
+      "PHP",
+      "Python",
+      "MVC",
+      "Чтение чужого кода"
+    ]
+  },
+  {
+    "name": "Middle-backend разработчик",
+    "skills": [
+      "Python",
+      "Docker",
+      "php 74",
+      "php 81",
+      "laravel 10",
+      "symphony 4",
+      "LEMP"
+    ]
+  },
+  {
+    "name": "Backend developer",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "FastAPI",
+      "Python",
+      "Redis",
+      "Docker",
+      "CI/CD",
+      "Apache Kafka",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Леста Старт)",
+    "skills": [
+      "Python",
+      "Go"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      ".NET Core",
+      "C#",
+      "MS Visual Studio",
+      "ASP.NET Core",
+      "SQL",
+      "PostgreSQL",
+      "SQL Server",
+      "SOLID",
+      "REST API",
+      "RabbitMQ",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend (Node.js / Nest.js) developer",
+    "skills": [
+      "Node.js",
+      "Nest.js",
+      "SQL",
+      "PostgreSQL",
+      "JavaScript",
+      "TypeScript",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "SQL",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP5",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "Стажер фронтенд/бэкенд разработчик в стартап проект",
+    "skills": [
+      "Деловое общение",
+      "Знание основ методологии Scrum",
+      "Java",
+      "React",
+      "Spring Framework",
+      "REST",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Back-end Middle разработчик (Python, PostgreSQL, FastAPI)",
+    "skills": [
+      "Python",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Бэкенд разработчик (SQL)",
+    "skills": [
+      "SQL",
+      "MS SQL",
+      "ERP"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "MySQL",
+      "Symfony",
+      "Golang",
+      "PHP",
+      "Kubernetes",
+      "Docker"
+    ]
+  },
+  {
+    "name": "PHP Backend Developer",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "Git",
+      "Linux",
+      "SQL",
+      "Работа в команде",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle Backend PHP-Developer",
+    "skills": [
+      "PHP",
+      "Git",
+      "ООП",
+      "REST API",
+      "Laravel",
+      "Yii",
+      "Symfony",
+      "RabbitMQ",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Python) junior",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Django Framework",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Backend Developer .NET (Transistor team)",
+    "skills": [
+      "C#",
+      "RabbitMQ",
+      "PostgreSQL",
+      ".NET Core",
+      "Kubernetes",
+      "DDD"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "NestJS — модульный фреймворк для Node.js; • TypeScript; • TypeORM; • PostgreSQL (pg); • Redis; • Web"
+    ]
+  },
+  {
+    "name": "Python\\Django backend-разработчик",
+    "skills": [
+      "Python",
+      "GitHub",
+      "Linux"
+    ]
+  },
+  {
+    "name": ".NET Backend разработчик",
+    "skills": [
+      "ASP.NET Core",
+      ".NET Core",
+      "Docker",
+      "ASP.NET",
+      "Gitlab",
+      "REST API",
+      "Рефакторинг кода",
+      "Оптимизация кода",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Middle Backend разработчик (Python)",
+    "skills": [
+      "Python",
+      "Git",
+      "Docker",
+      "Linux",
+      "Celery",
+      "REST",
+      "Django Rest Framework",
+      "TeamCity",
+      "GitHub",
+      "Nginx",
+      "Django",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (PHP, Laravel)",
+    "skills": [
+      "MySQL",
+      "RabbitMQ",
+      "Symfony",
+      "Laravel",
+      "PHP",
+      "Django Rest Framework",
+      "Yii",
+      "MVC",
+      "Linux",
+      "Docker-compose"
+    ]
+  },
+  {
+    "name": "Junior/Middle backend разработчик (php)",
+    "skills": [
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Стажер Python Back-end (офис)",
+    "skills": [
+      "Python",
+      "Git",
+      "PostgreSQL",
+      "SQL",
+      "Linux",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Node.js",
+      "REST",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "JS",
+      "Nginx",
+      "NoSQL",
+      "Docker",
+      "Git",
+      "JWT",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "Backend C# ASP.NET developer (Middle+/Senior)",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "Linux",
+      "Docker",
+      "PostgreSQL",
+      "SQL",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend Developer Java ЕЕ в Банк",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "WebFlux"
+    ]
+  },
+  {
+    "name": "Backend Senior Developer (PHP)",
+    "skills": [
+      "Git",
+      "SOLID",
+      "Redis",
+      "MySQL",
+      "PHP",
+      "REST",
+      "JavaScript",
+      "Laravel",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend разработчик .NET/SQL",
+    "skills": [
+      "С#",
+      "API",
+      ".NET Core",
+      "SQL",
+      "ASP.NET Core",
+      "REST API"
+    ]
+  },
+  {
+    "name": "TeamLead .NET backend developer",
+    "skills": [
+      "Лидерство",
+      "Наставничество",
+      "PostgreSQL",
+      "MS SQL",
+      "Redis",
+      "RabbitMQ",
+      "SOLID",
+      "Git",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Java Backend Developer",
+    "skills": [
+      "Java",
+      "SQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Node.js разработчик",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Kunernetes",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Golang",
+      "REST",
+      "RabbitMQ",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Python Developer (FastAPI, FinTech)",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior Backend (JAVA) Developer",
+    "skills": [
+      "Java",
+      "REST",
+      "API"
+    ]
+  },
+  {
+    "name": ".NET Backend разработчик",
+    "skills": [
+      "ASP.NET Core",
+      ".NET Core",
+      "Docker",
+      "ASP.NET",
+      "Gitlab",
+      "REST API",
+      "Рефакторинг кода",
+      "Оптимизация кода",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Старший (Senior) .NET/C# разработчик Backend в игровую компанию",
+    "skills": [
+      "Английский B2",
+      "С#",
+      ".NET Framework",
+      ".NET Core",
+      "SQL",
+      "Микросервисы"
+    ]
+  },
+  {
+    "name": "Backend-разработчик в команду Stability&Server Core",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "MS SQL",
+      "PostgreSQL",
+      "Clickhouse"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Python, FastAPI)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "FastAPI",
+      "Docker-compose",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "QA-инженер (backend)",
+    "skills": [
+      "Тестирование",
+      "Функциональное тестирование",
+      "Автоматизированное тестирование",
+      "Java"
+    ]
+  },
+  {
+    "name": "Backend-разработчик/python (middle/senior), Воткинск",
+    "skills": [
+      "Python",
+      "REST API",
+      "Agile",
+      "SQL",
+      "NoSQL",
+      "Алгоритмы и структуры данных",
+      "Стратегия тестирования",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "PHP Backend Developer",
+    "skills": [
+      "PHP",
+      "Linux",
+      "Debian",
+      "Git",
+      "Laravel",
+      "Symfony",
+      "GitLab CI",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend / Fullstack разработчик Kotlin / Java",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Базы данных",
+      "Spring",
+      "Exposed",
+      "SQL",
+      "Intellij IDEA",
+      "Git",
+      "Gradle",
+      "HTTP",
+      "HTTPS"
+    ]
+  },
+  {
+    "name": "Тестировщик (web/back-end) в офис, Казань",
+    "skills": [
+      "Тестирование",
+      "Интеграционное тестирование",
+      "Регрессионное тестирование",
+      "Postman",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Web-разработчик (Backend)",
+    "skills": [
+      "1С-Битрикс",
+      "CSS",
+      "HTML",
+      "CMS Wordpress",
+      "Wordpress",
+      "HTML/CSS",
+      "Bitrix",
+      "Битрикс 24",
+      "Bitrix24",
+      "HTML5",
+      "SQL",
+      "PHP",
+      "OpenCart",
+      "Laravel",
+      "Git",
+      "Webasyst",
+      "Joomla"
+    ]
+  },
+  {
+    "name": "PHP Back-end разработчик (Middle+/Senior)",
+    "skills": [
+      "MySQL",
+      "JavaScript",
+      "1С-Битрикс",
+      "Git",
+      "СУБД",
+      "PHP",
+      "PostgreSQL",
+      "Yandex Maps API",
+      "Работа в команде",
+      "Работа в условиях многозадачности",
+      "Умение адаптироваться",
+      "Jira",
+      "Оптимизация запросов",
+      "Анализ АБС",
+      "fintech",
+      "banking"
+    ]
+  },
+  {
+    "name": "Java backend developer (Senior)",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "Spring Cloud",
+      "PostgreSQL",
+      "Spring MVC"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Laravel)",
+    "skills": [
+      "HTTP",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "API",
+      "CSS",
+      "Git",
+      "HTML",
+      "Работа в команде",
+      "Веб-программирование",
+      "Разработка ПО",
+      "Laravel",
+      "REST API",
+      "Symfony",
+      "Оптимизация кода",
+      "Адаптивная верстка",
+      "Кроссбраузерное тестирование",
+      "Кроссбраузерная верстка"
+    ]
+  },
+  {
+    "name": "Senior Backend Engineer (Python)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Amazon Web Services",
+      "AWS",
+      "PostgreSQL",
+      "MySQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend Node.JS разработчик (developer)",
+    "skills": [
+      "Git",
+      "GraphQL",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "Yii 2",
+      "MySQL",
+      "JavaScript",
+      "Ajax",
+      "CSS3",
+      "Git",
+      "Vue.js",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "REST API",
+      "Laravel",
+      "Framework",
+      "PHP",
+      "SQL",
+      "SOLID",
+      "DRY",
+      "KISS",
+      "Git"
+    ]
+  },
+  {
+    "name": "Лид backend разработки",
+    "skills": [
+      "Python",
+      "asyncIO",
+      "PostgreSQL",
+      "litestar",
+      "Управление командой"
+    ]
+  },
+  {
+    "name": "PHP разработчик (Backend Developer)",
+    "skills": [
+      "PHP",
+      "SQL",
+      "CentOS",
+      "PostgreSQL",
+      "API",
+      "REST",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (Node.js)",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "ES5",
+      "HTML5",
+      "Canvas",
+      "Nodejs",
+      "Rabbit",
+      "Redis",
+      "Postgree",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "MySQL",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Junior PHP Backend Developer (Laravel/Yii2)",
+    "skills": [
+      "PHP",
+      "Yii2",
+      "REST API",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend разработчик OPENCART 4",
+    "skills": [
+      "Gitlab",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend GO Developer",
+    "skills": [
+      "Linux",
+      "JavaScript",
+      "Git",
+      "PostgreSQL",
+      "Golang",
+      "tarantool"
+    ]
+  },
+  {
+    "name": "QA-инженер (Backend)",
+    "skills": [
+      "Регресcионное тестирование",
+      "Java",
+      "QA",
+      "SQL",
+      "Postman",
+      "Функциональное тестирование"
+    ]
+  },
+  {
+    "name": "Backend Python/Javascript",
+    "skills": [
+      "SQL",
+      "Python",
+      "Git",
+      "MS SQL",
+      "Agile"
+    ]
+  },
+  {
+    "name": "Node.js Developer (Backend)",
+    "skills": [
+      "Node.js",
+      "парсинг",
+      "playwright",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "PostgreSQL",
+      "Django Rest Framework"
+    ]
+  },
+  {
+    "name": "Backend developer (C#, .Net)",
+    "skills": [
+      ".NET Core",
+      "C#",
+      "SQL",
+      "ASP.NET Core"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Разработка ПО",
+      "PHP",
+      "Symfony",
+      "REST API",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик Backend Node.js",
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Vue.js",
+      "GraphDB",
+      "MongoDB",
+      "PostgreSQL",
+      "Node.js",
+      "Elasticsearch",
+      "Microservices",
+      "TypeScript",
+      "Apache Kafka",
+      "Ext JS",
+      "Docker",
+      "Redis",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Middle Fullstack Frontend / Backend разработчик",
+    "skills": [
+      "Django Framework",
+      "Python",
+      "JavaScript",
+      "Git",
+      "Vue.js",
+      "PostgreSQL",
+      "ООП",
+      "Linux",
+      "Тестирование",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Back-end разработчик (PHP)",
+    "skills": [
+      "SQL",
+      "Docker",
+      "Unit Testing",
+      "PHP",
+      "Laravel",
+      "Symfony",
+      "MySQL",
+      "PostgreSQL",
+      "Git",
+      "Livecoding"
+    ]
+  },
+  {
+    "name": "QA-инженер (backend)",
+    "skills": [
+      "API (SOAP/REST)",
+      "Работа с базами данных",
+      "SQL",
+      "MQ",
+      "kafka",
+      "RabbitMQ",
+      "Swagger",
+      "Postman",
+      "Katalon Studio",
+      "JMeter",
+      "Insomnia REST Client",
+      "Fiddler",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "name": "Senior Backend Engineer",
+    "skills": [
+      "Python",
+      "SQL",
+      "ORM",
+      "Pytest",
+      "Git",
+      "Clickhouse",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "Junior Backend NodeJS developer",
+    "skills": [
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "QA-Инженер (backend)",
+    "skills": [
+      "SQL",
+      "Функциональное тестирование",
+      "BDD",
+      "Atlassian Jira",
+      "Тестирование"
+    ]
+  },
+  {
+    "name": "PHP-разработчик (Back-end)",
+    "skills": [
+      "API",
+      "SQL",
+      "ООП",
+      "Базы данных",
+      "PHP",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend / full-stack разработчик",
+    "skills": [
+      "PostgreSQL",
+      "Рефакторинг кода",
+      "Микросервисная архитектура",
+      "SQL",
+      "JSON API",
+      "API Key",
+      "GitLab CI",
+      "REST API",
+      "API",
+      "JSON"
+    ]
+  },
+  {
+    "name": "QA-Инженер (backend)",
+    "skills": [
+      "SQL",
+      "Функциональное тестирование",
+      "BDD",
+      "Atlassian Jira",
+      "Тестирование"
+    ]
+  },
+  {
+    "name": "Back-end разработчик (Middle+)",
+    "skills": [
+      "Golang",
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "RabbitMQ",
+      "Kafka",
+      "REST",
+      "gRPC",
+      "Prometheus",
+      "Grafana",
+      "Graylog",
+      "ELK",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (работа в офисе)",
+    "skills": [
+      "PostgreSQL",
+      "Nginx",
+      "Docker",
+      "Git",
+      "Redis",
+      "Django Framework",
+      "Django Rest Framework",
+      "Python",
+      "Debian"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Node.js)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "SOLID",
+      "PostgreSQL",
+      "Docker",
+      "GraphQL",
+      "SQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend developer (Node.js)",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "ООП",
+      "Node.js",
+      "Developer Express",
+      "NATS",
+      "Docker",
+      "Express.js"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Python)",
+    "skills": [
+      "Python",
+      "asyncio",
+      "PostgreSQL",
+      "MongoDB",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Python backend developer",
+    "skills": [
+      "Python",
+      "SQL",
+      "FastAPI",
+      "Yandex Cloud"
+    ]
+  },
+  {
+    "name": "Back-end разработчик",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "PostgreSQL",
+      "SQL",
+      "REST",
+      "SOAP",
+      "RabbitMQ",
+      "Redis",
+      "TDD"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик в команду Core Services (Инфомодель)",
+    "skills": [
+      "PHP",
+      "Golang",
+      "Java"
+    ]
+  },
+  {
+    "name": "Backend Developer C# / .NET",
+    "skills": [
+      "ООП",
+      "C#",
+      ".NET Framework",
+      "Docker",
+      "Kubernetes",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Trainee/Intern/Junior Python backend developer",
+    "skills": [
+      "Python",
+      "Celery",
+      "Docker",
+      "JavaScript",
+      "RabbitMQ",
+      "Elasticsearch",
+      "Redis",
+      "PostgreSQL",
+      "MongoDB",
+      "Django",
+      "Nginx",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "QA-Инженер (backend)",
+    "skills": [
+      "SQL",
+      "Функциональное тестирование",
+      "BDD",
+      "Atlassian Jira",
+      "Тестирование"
+    ]
+  },
+  {
+    "name": "Senior Backend (JAVA) Developer",
+    "skills": [
+      "Java",
+      "REST",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend Node.JS developer",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (РНР разработчик уровня middle/senior)",
+    "skills": [
+      "Базы данных",
+      "PHP Symfony PostgreSQL"
+    ]
+  },
+  {
+    "name": "Web-разработчик Backend Middle",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Docker",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "JS Backend Engineer (Node.js)",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "js",
+      "JavaScript",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend Developer / Web (Middle)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Git",
+      "HTML",
+      "CSS",
+      "ООП",
+      "JavaScript",
+      "Linux",
+      "Nginx",
+      "Ответственность",
+      "Ориентация на результат"
+    ]
+  },
+  {
+    "name": "Backend Python Developer (+ N8N)",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "name": "Senior Backend developer",
+    "skills": [
+      "PostgreSQL",
+      "Python",
+      "GraphQL",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Back-end разработчик PHP",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Laravel",
+      "Docker",
+      "Git",
+      "REST",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Back-end Developer - Java, Kubernetes (Middle/Senior)",
+    "skills": [
+      "Java",
+      "Kubernetes",
+      "Azure",
+      "NoSQL",
+      "PostgreSQL",
+      "Neo4J"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "C#",
+      "PostgreSQL",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Инженер по тестированию backend (QA manual/auto)",
+    "skills": [
+      "Git",
+      "Linux",
+      "QA",
+      "Postman",
+      "Kotlin",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "ORACLE",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend Developer (Java / Fineract + Node.js / NestJS, PostgreSQL)",
+    "skills": [
+      "NestJS",
+      "PostgreSQL",
+      "Elasticsearch",
+      "Fineract",
+      "PaymentHub",
+      "TypeScript",
+      "Java",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "PostgreSQL",
+      "DDD",
+      "Удаленная работа",
+      "GraphQL",
+      "Java",
+      "Spring Framework",
+      "С#",
+      ".NET Framework",
+      "REST API",
+      "SQL",
+      "doctrine"
+    ]
+  },
+  {
+    "name": "Backend-программист PHP",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "Git",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Senior PHP BackEnd Developer",
+    "skills": [
+      "PHP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "QA инженер (backend)",
+    "skills": [
+      "SQL",
+      "Python",
+      "Java",
+      "BDD",
+      "QA"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "Java",
+      "Go",
+      "C++",
+      "Python"
+    ]
+  },
+  {
+    "name": "Backend-разработчик junior+ / middle (Москва)",
+    "skills": [
+      "C#",
+      "PostgreSQL",
+      "Clickhouse",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PostgreSQL",
+      "Node.js",
+      "PHP",
+      "Git",
+      "REST API",
+      "ELK",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP) Laravel",
+    "skills": [
+      "MySQL",
+      "PHP7",
+      "Git",
+      "Laravel",
+      "REST"
+    ]
+  },
+  {
+    "name": "Backend Developer (Java / Kotlin) | iGaming/FinTech",
+    "skills": [
+      "Java",
+      "Git",
+      "PostgreSQL",
+      "Kafka",
+      "RabbitMQ",
+      "Kotlin",
+      "backend",
+      "API",
+      "JPA",
+      "OpenAPI",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "ORACLE",
+      "Spring Boot 3",
+      "Project Reactor"
+    ]
+  },
+  {
+    "name": "PHP разработчик/ Backend PHP Developer Middle",
+    "skills": [
+      "Техническая экспертиза",
+      "Эффективная коммуникация",
+      "Критическое мышление",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend Developer Node.js",
+    "skills": [
+      "MongoDB",
+      "gRPC",
+      "Nest JS",
+      "Rabbit",
+      "Apache Kafka",
+      "BFF",
+      "API Gateway",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "SQL",
+      "Linux",
+      "JSON",
+      "XML",
+      "SOAP",
+      "PHP",
+      "PostgreSQL",
+      "СУБД"
+    ]
+  },
+  {
+    "name": "Ведущий инженер-конструктор СБИС (Back-End engineer)",
+    "skills": [
+      "разработка топологии",
+      "DFT",
+      "Synopsys Formality",
+      "Cadence Conformal",
+      "СнК",
+      "RTL2GDSII",
+      "физическая верификация"
+    ]
+  },
+  {
+    "name": "Node.js backend developer",
+    "skills": [
+      "Node.js",
+      "Nest.js",
+      "PostgreSQL",
+      "REST API",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Middle/Senior Python Backend Разработчик",
+    "skills": [
+      "Python",
+      "REST",
+      "MS SQL",
+      "Celery",
+      "API",
+      "Django Framework",
+      "Опыт работы с видеопотоками"
+    ]
+  },
+  {
+    "name": "Backend Developer Node.js (Senior)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Backend",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Ведущий бэк-енд разработчик/Python developer",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "name": "Backend-разработчик / Laravel (Middle+)",
+    "skills": [
+      "PHP"
+    ]
+  },
+  {
+    "name": "Sportline Backend разработчик",
+    "skills": [
+      "Golang",
+      "gRPC",
+      "Redis",
+      "Английский язык",
+      "Kubernetes",
+      "Docker",
+      "Grafana",
+      "Prometheus"
+    ]
+  },
+  {
+    "name": "Backend (NodeJS) / fullstack разработчик в студию",
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Node.js",
+      "GitHub",
+      "TypeScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "Linux",
+      "API",
+      "Python",
+      "Разработка ПО",
+      "Веб-программирование",
+      "Node.js",
+      "REST API",
+      "Docker",
+      "Алгоритмы и структуры данных",
+      "Нейронные сети",
+      "JavaScript",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Node.js backend developer",
+    "skills": [
+      "Node.js",
+      "Nest.js",
+      "PostgreSQL",
+      "REST API",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Стажер-Backend разработчик",
+    "skills": [
+      "Ruby",
+      "Ruby On Rails",
+      "Git",
+      "JavaScript",
+      "CSS",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend разработчик / PHP-программист",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Git",
+      "Linux",
+      "SQL",
+      "ООП"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Nest.js)",
+    "skills": [
+      "Node.js",
+      "Swagger",
+      "Redis",
+      "TypeScript",
+      "PostgreSQL",
+      "Active Directory"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js, NestJS) — iGaming (Белград)",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL",
+      "Проектирование высоконагруженных систем",
+      "Разработка нового продукта"
+    ]
+  },
+  {
+    "name": "Web-разработчик Backend Middle",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Docker",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Junior Backend-разработчик (PHP)",
+    "skills": [
+      "Git",
+      "PHP",
+      "Bitrix",
+      "ModX",
+      "OpenCart",
+      "Wordpress",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "API",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (ASP.NET Core, MS SQL)",
+    "skills": [
+      ".NET Core",
+      "ASP.NET Core",
+      "MS SQL",
+      "C#",
+      "Разработка ПО"
+    ]
+  },
+  {
+    "name": "Руководитель backend-направления",
+    "skills": [
+      "Управление командой",
+      "руководство командой разработчиков",
+      "Организаторские навыки",
+      "Управленческие навыки",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "name": "PHP программист Back-end разработчик Web-программист",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Junior backend-разработчик",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "Laravel",
+      "Backend",
+      "ООП",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Python (Junior+)",
+    "skills": [
+      "Python",
+      "Рефакторинг кода"
+    ]
+  },
+  {
+    "name": "Backend-разработчик. Node js",
+    "skills": [
+      "ООП",
+      "Сбор и анализ информации",
+      "Разработка ПО",
+      "Разработка сайтов",
+      "Тестирование",
+      "PHP",
+      "HTML",
+      "Bootstrap",
+      "SEO",
+      "JavaScript",
+      "Node.js",
+      "NoSQL",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Middle Backend разработчик (Python + Golang)",
+    "skills": [
+      "Python",
+      "Linux",
+      "Flask",
+      "Git",
+      "PostgreSQL",
+      "REST",
+      "HTTP",
+      "WebSocket",
+      "FastAPI",
+      "Sanic",
+      "AIOHTTP",
+      "SQL",
+      "Bash",
+      "Docker",
+      "Golang",
+      "Django Framework"
+    ]
+  },
+  {
+    "name": "Junior PHP разработчик (программист API, Backend, API, Сервер, WEB)",
+    "skills": [
+      "PHP",
+      "Yii2",
+      "MySQL",
+      "Git",
+      "API",
+      "Серверное программирование",
+      "Базы данных",
+      "Laravel",
+      "Symfony",
+      "Web",
+      "PostgreSQL",
+      "JSON",
+      "Backend",
+      "ООП",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Senior Backend developer (PHP)",
+    "skills": [
+      "PHP",
+      "SQL",
+      "Laravel",
+      "ORM",
+      "Redis",
+      "Memcached",
+      "Git",
+      "Docker",
+      "API",
+      "Базы данных",
+      "Интеграция сервисов"
+    ]
+  },
+  {
+    "name": "FullStack/ Backend разработчик",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "QA-инженер (Backend)",
+    "skills": [
+      "Регресcионное тестирование",
+      "Java",
+      "QA",
+      "SQL",
+      "Postman",
+      "Функциональное тестирование"
+    ]
+  },
+  {
+    "name": "Бэкенд PHP-разработчик",
+    "skills": [
+      "PHP",
+      "SQL",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "QA-инженер (backend)",
+    "skills": [
+      "Тестирование",
+      "Функциональное тестирование",
+      "Автоматизированное тестирование",
+      "Java"
+    ]
+  },
+  {
+    "name": "Бэкенд PHP-программист, middle",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP",
+      "JavaScript",
+      "ООП",
+      "SQL",
+      "Linux",
+      "Docker",
+      "HTML",
+      "CSS",
+      "yii2",
+      "Sphinx",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Программист отдела сопровождения банковских карт \"backend-программист\"",
+    "skills": [
+      "C++",
+      "Pascal",
+      "Microsoft Access",
+      "С#",
+      "SQL",
+      "Python"
+    ]
+  },
+  {
+    "name": "C#/.NET-бэкенд-разработчик",
+    "skills": [
+      "C#",
+      ".NET Framework",
+      "HTTP",
+      "SQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "PHP-программист backend / frontend",
+    "skills": [
+      "PHP",
+      "HTML",
+      "CSS",
+      "MS SQL",
+      "JS",
+      "Laravel",
+      "React.js"
+    ]
+  },
+  {
+    "name": "Web-разработчик (backend)",
+    "skills": [
+      "JSON API",
+      "GitHub",
+      "API",
+      "REST",
+      "Рефакторинг кода",
+      "Linux",
+      "PHP",
+      "MySQL",
+      "SQL",
+      "Оптимизация кода",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (golang)",
+    "skills": [
+      "Golang",
+      "PHP",
+      "API",
+      "высоконагруженные системы",
+      "Рефакторинг кода",
+      "Сервисная архитектура"
+    ]
+  },
+  {
+    "name": "Python Backend-разработчик (Middle/Senior)",
+    "skills": [
+      "Python",
+      "Git",
+      "CI/CD",
+      "SOLID",
+      "ООП",
+      "PostgreSQL",
+      "Redis",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle/senior PHP backend разработчик",
+    "skills": [
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Full-stack QA Engineer (middle) backend продукт",
+    "skills": [
+      "Java",
+      "SQL",
+      "Git",
+      "JUnit"
+    ]
+  },
+  {
+    "name": "Back-end разработчик (PHP, Laravel)",
+    "skills": [
+      "PHP",
+      "HTML",
+      "JavaScript",
+      "MySQL",
+      "CSS",
+      "jQuery",
+      "ООП",
+      "Linux",
+      "Git",
+      "Yii"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "PHP",
+      "API",
+      "1С-Битрикс"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend разработчик (PHP/Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Инженер по автоматизации тестирования [backend]",
+    "skills": [
+      "Docker",
+      "Git",
+      "Bash",
+      "Python"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "Kubernetes",
+      "Docker",
+      "Go",
+      "Redis",
+      "REST API",
+      "Golang",
+      "Юнит-тесты",
+      "Базы данных",
+      "gRPC",
+      "SQL",
+      "Docker-compose",
+      "Разработка ПО"
+    ]
+  },
+  {
+    "name": "Senior Backend Engineer в команду Отелло",
+    "skills": [
+      "Golang",
+      "PostgreSQL",
+      "Kafka",
+      "Redis",
+      "Go",
+      "Docker",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "Системный аналитик back-end на проект банка",
+    "skills": [
+      "REST",
+      "Kubernetes",
+      "Agile",
+      "CI/CD",
+      "Разработка пользовательской документации",
+      "Управление бэклогом",
+      "SQL",
+      "Системный анализ",
+      "Atlassian Confluence",
+      "Разработка бизнес-требований",
+      "UML",
+      "Atlassian Jira",
+      "Постановка задач разработчикам",
+      "Use case",
+      "Анализ требований",
+      "PlantUML",
+      "BPMN",
+      "Разработка функциональных требований",
+      "Системная интеграция",
+      "Разработка нефункциональных требований",
+      "Документирование бизнес-требований",
+      "User Story",
+      "Моделирование бизнес-процессов",
+      "Разработка технических заданий",
+      "JSON API",
+      "API",
+      "Swagger",
+      "Микросервисная архитектура",
+      "PostgreSQL",
+      "REST API"
+    ]
+  },
+  {
+    "name": ".Net Backend разработчик (Middle)",
+    "skills": [
+      "C#",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      ".NET 8"
+    ]
+  },
+  {
+    "name": "Middle Backend Go разработчик",
+    "skills": [
+      "Golang",
+      "gRPC",
+      "PostgreSQL",
+      "Kafka",
+      "Docker",
+      "Helm",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "Senior Python Backend Engineer (Asyncio, FastAPI, Highload)",
+    "skills": [
+      "Python",
+      "RabbitMQ",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Senior Backend-разработчик (Node JS)",
+    "skills": [
+      "PostgreSQL",
+      "Микросервисная архитектура",
+      "Elasticsearch",
+      "RabbitMQ",
+      "Apache Kafka",
+      "SQL",
+      "Architecture Framework",
+      "NestJS",
+      "Flink"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Senior)",
+    "skills": [
+      "Linux",
+      "Laravel",
+      "PHP",
+      "Git",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Golang)",
+    "skills": [
+      "Java",
+      "Git",
+      "SQL",
+      "Spring Framework",
+      "REST API",
+      "Spring Boot",
+      "Оптимизация кода",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Middle Scala/Java-разработчик (backend)",
+    "skills": [
+      "Java",
+      "Scala"
+    ]
+  },
+  {
+    "name": "Senior Back-end Developer (PHP, Symfony)",
+    "skills": [
+      "PHP",
+      "Yii",
+      "Symfony",
+      "DDD"
+    ]
+  },
+  {
+    "name": "Middle backend-разработчик (Laravel, Bitrix) в Only",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "MS SQL",
+      "Git",
+      "SQL",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Омск)",
+    "skills": [
+      "C#",
+      "JavaScript",
+      "PostgreSQL",
+      "Linux",
+      "Docker",
+      "GDAL",
+      "Mitab",
+      "PostGIS",
+      "Geoserver",
+      "Leaflet",
+      "Maplibre",
+      "Mapbox"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Python DRF)",
+    "skills": [
+      "Python",
+      "Git",
+      "PostgreSQL",
+      "Django Framework",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Node.js Backend Developer (Middle)",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Backend",
+      "Nest.js",
+      "PostgreSQL",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend Developer",
+    "skills": [
+      "DevOps",
+      "QA",
+      "PostgreSQL",
+      "Spring Boot",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend (C#, .Net Core)",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "SQL",
+      "API",
+      ".NET"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Atomic Mail)",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "API",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "Koa.js",
+      "PostgreSQL",
+      "TypeScript",
+      "Backend",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend php developer",
+    "skills": [
+      "PHP",
+      "Git",
+      "MySQL",
+      "Redis",
+      "RabbitMQ",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend developer (Python)",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Middle/Senior Backend-разработчик Python",
+    "skills": [
+      "Linux",
+      "Docker",
+      "Python",
+      "REST",
+      "API",
+      "JSON API",
+      "OpenAI",
+      "Битрикс24",
+      "Celery",
+      "FastAPI",
+      "PostgreSQL",
+      "Gitlab",
+      "SQLite",
+      "Нейронные сети"
+    ]
+  },
+  {
+    "name": "Backend – разработчик (PHP Laravel)",
+    "skills": [
+      "Git",
+      "MySQL",
+      "PHP",
+      "Laravel",
+      "HTML",
+      "CSS3",
+      "Проектирование архитектуры"
+    ]
+  },
+  {
+    "name": "PHP+GO Backend Developer (Middle)",
+    "skills": [
+      "PHP",
+      "SQL",
+      "Symfony",
+      "Laravel",
+      "Yii",
+      "Slim",
+      "Zend Framework",
+      "Codeigniter",
+      "Clickhouse",
+      "MariaDB",
+      "SSH",
+      "Go",
+      "Docker",
+      "RabbitMQ",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Senior Java / Kotlin backend разработчик",
+    "skills": [
+      "Clean Architecture",
+      "PostgreSQL",
+      "GraphQL",
+      "OLAP",
+      "Apache Kafka",
+      "Java",
+      "Kotlin",
+      "Spring Data",
+      "Spring Boot",
+      "Spring Security",
+      "JPA",
+      "Hibernate",
+      "gRPC",
+      "NoSQL",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Middle backend разработчик",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Web/FTP Proxy (Bluecoat SG)",
+      "Docker",
+      "Git",
+      "Linux",
+      "Асинхронное программирование",
+      "REST API",
+      "Математическая статистика",
+      "Redis",
+      "Django Rest Framework",
+      "Celery",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Middle backend developer (PHP/Laravel) / разработчик PHP",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик/python (middle/senior) Ижевск",
+    "skills": [
+      "Python",
+      "REST API",
+      "Agile",
+      "SQL",
+      "NoSQL",
+      "Алгоритмы и структуры данных",
+      "Стратегия тестирования",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик на Node.js",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "NestJS",
+      "Node.js",
+      "REST",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "JavaScript",
+      "SQL",
+      "MVC",
+      "Yii",
+      "REST"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик Middle",
+    "skills": [
+      "Git",
+      "CSS",
+      "HTML",
+      "Yii2",
+      "PostgreSQL",
+      "jQuery",
+      "MySQL",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Engineering Lead (Full-stack / Backend)",
+    "skills": [
+      "Team management",
+      "Python",
+      "Golang",
+      "Kubernetes",
+      "Redis",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Middle backend разработчик Golang",
+    "skills": [
+      "Golang",
+      "fiber",
+      "Docker",
+      "MS SQL Server",
+      "PostgreSQL",
+      "firebird"
+    ]
+  },
+  {
+    "name": "Middle/senior backend-разработчик (PHP Laravel)",
+    "skills": [
+      "PHP",
+      "Redis",
+      "Laravel",
+      "MongoDB",
+      "RabbitMQ",
+      "MySQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Фронтенд/бэкенд программист (Ruby on Rails/React/Postgres)",
+    "skills": [
+      "React",
+      "JavaScript",
+      "React/Redux",
+      "Java Script",
+      "PostgreSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Разработчик TS+Vue Frontend или Laravel Backend в офис",
+    "skills": [
+      "JSON API",
+      "JavaScript",
+      "Git",
+      "MySQL",
+      "HTML5",
+      "PHP",
+      "CSS3",
+      "REST",
+      "Работа в команде",
+      "ООП",
+      "CSS",
+      "Ajax",
+      "jQuery",
+      "Frontend",
+      "Redis",
+      "amoCRM",
+      "HTML",
+      "SQL",
+      "Удаленная работа",
+      "Twig",
+      "HTML/CSS",
+      "Backend",
+      "Java Script",
+      "Laravel",
+      "VueJS",
+      "Адаптивная верстка",
+      "Docker-compose",
+      "TypeScript",
+      "Оптимизация кода",
+      "Кроссбраузерная верстка"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик Kotlin/Java (middle)",
+    "skills": [
+      "Git",
+      "SQL",
+      "Spring Framework",
+      "PostgreSQL",
+      "Hibernate ORM",
+      "JUnit",
+      "Java"
+    ]
+  },
+  {
+    "name": "Middle+ Backend Developer",
+    "skills": [
+      "PostgreSQL",
+      "Java",
+      "Spring Framework",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "name": "С# Backend Developer (Middle)",
+    "skills": [
+      "SQL",
+      "SQL Server",
+      "PostgreSQL",
+      "MongoDB",
+      "Clickhouse",
+      "C#",
+      "Data Warehouse",
+      "Net Core",
+      "Docker",
+      "MS SQL",
+      "Redis",
+      "ASP.NET Core",
+      "Elasticsearch",
+      "Kafka",
+      "MS SQL Server"
+    ]
+  },
+  {
+    "name": "Middle Back-End C# Developer, XBEA Team",
+    "skills": [
+      "С#",
+      "SOLID",
+      "API",
+      "Documentary",
+      "Unit Testing",
+      "Teamplayer",
+      "xUnit"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "Git",
+      "PHP",
+      "Bitrix",
+      "ModX",
+      "OpenCart",
+      "Wordpress",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "API",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Стажер-разработчик бэкенда",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Golang",
+      "C/C++",
+      "Scala",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Middle Backend разработчик (Laravel)",
+    "skills": [
+      "PHP",
+      "Английский язык",
+      "MySQL",
+      "Laravel",
+      "Backend",
+      "Docker",
+      "RabbitMQ",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend Разработчик (Python)",
+    "skills": [
+      "SQL",
+      "API",
+      "PostgreSQL",
+      "Python",
+      "Kafka",
+      "ORM",
+      "MySQL",
+      "Git",
+      "backend"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Middle)",
+    "skills": [
+      "PHP",
+      "Wordpress"
+    ]
+  },
+  {
+    "name": "Fullstack/Backend-разработчик php",
+    "skills": [
+      "Git",
+      "MVC",
+      "jQuery",
+      "PostgreSQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (.NET CORE + ASP.NET CORE)",
+    "skills": [
+      ".NET Core",
+      "ASP.NET Core",
+      "FIREBIRD",
+      "RED DATABASE",
+      "PostgreSQL",
+      "REST API",
+      "XML RPC"
+    ]
+  },
+  {
+    "name": "Middle Backend (Node.js / Nest.js) developer",
+    "skills": [
+      "Node.js",
+      "Nest.js",
+      "JavaScript",
+      "TypeScript",
+      "Express",
+      "RabbitMQ",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Middle / Middle+ Backend Developer (PHP)",
+    "skills": [
+      "Symfony",
+      "PostgreSQL",
+      "PHP",
+      "PHPUnit",
+      "MSA",
+      "Apache Kafka",
+      "SOA"
+    ]
+  },
+  {
+    "name": "Fullstack Backend-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Node.js",
+      "SQL",
+      "JavaScript",
+      "Bootstrap",
+      "Микросервисная архитектура",
+      "jQuery",
+      "Оптимизация кода"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Symfony, Middle+)",
+    "skills": [
+      "Symfony",
+      "Laravel",
+      "PHP",
+      "Redis",
+      "RabbitMQ",
+      "Docker-compose",
+      "Elasticsearch",
+      "SOLID",
+      "Git",
+      "Микросервисная архитектура",
+      "Оптимизация кода",
+      "GitLab CI"
+    ]
+  },
+  {
+    "name": "Backend разработчик PHP Laravel (удалённо)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "Git",
+      "Docker-compose",
+      "Composer",
+      "Удаленная работа",
+      "Микросервисы",
+      "kafka",
+      "PHPUnit",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "REST API",
+      "Python",
+      "Gitlab",
+      "Postman",
+      "PostgreSQL",
+      "Facebook API",
+      "Flask",
+      "Laravel",
+      "Symfony",
+      "PHP7",
+      "PHP",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Старший разработчик JavaScript (Node.js/back-end)",
+    "skills": [
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Разработчик | Backend Developer (PHP)",
+    "skills": [
+      "PHP",
+      "Git",
+      "ООП",
+      "CMS Wordpress",
+      "API"
+    ]
+  },
+  {
+    "name": "Middle Django(DRF) backend developer",
+    "skills": [
+      "Python",
+      "Django",
+      "DRF",
+      "Redis",
+      "Celery",
+      "Django Rest Framework",
+      "PostgreSQL",
+      "Django Framework"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP 8)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "API",
+      "Git",
+      "MVC",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "PHP Backend разработчик",
+    "skills": [
+      "PHP",
+      "Backebnd"
+    ]
+  },
+  {
+    "name": "Back-end Developer (Node.js)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "SQL",
+      "MongoDB",
+      "Redis",
+      "Swagger"
+    ]
+  },
+  {
+    "name": "Backend разработчик",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Стажер-разработчик бэкенда",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Golang",
+      "C/C++",
+      "Scala",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (NodeJS)",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "PostgreSQL",
+      "Kafka"
+    ]
+  },
+  {
+    "name": "Middle/Middle+ Backend-разработчик (Python)",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Redis",
+      "Celery",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "REST",
+      "gRPC"
+    ]
+  },
+  {
+    "name": "Backend Developer (JS, OpenAI API)",
+    "skills": [
+      "PostgreSQL",
+      "Node.js",
+      "OpenAi",
+      "OpenAi Api",
+      "JS",
+      "Nest.js"
+    ]
+  },
+  {
+    "name": "QA Fullstack Engineer (Back-end)",
+    "skills": [
+      "REST API",
+      "HTTP",
+      "Тестирование",
+      "Kafka",
+      "Написание автотестов",
+      "Kotlin",
+      "NoSQL",
+      "Postman"
+    ]
+  },
+  {
+    "name": "Программист 1С-Битрикс (Backend)",
+    "skills": [
+      "REST API",
+      "Программы лояльности для клиентов",
+      "1С-Битрикс",
+      "Git",
+      "PHP",
+      "Bitrix",
+      "Swagger",
+      "API",
+      "SOAP",
+      "Backend",
+      "Scrum",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Senior backend-разработчик",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "REST API",
+      "Микросервисная архитектура"
+    ]
+  },
+  {
+    "name": "Backend NodeJS Developer",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Git",
+      "PostgreSQL",
+      "Linux",
+      "Redis",
+      "Docker",
+      "Express js",
+      "Nest js"
+    ]
+  },
+  {
+    "name": "Backend разработчик (в офис)",
+    "skills": [
+      "ООП",
+      "REST",
+      "SQL",
+      "MVC",
+      "REST API",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик / Веб-разработчик OpenCart (PHP, MySQL)",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "GitHub",
+      "REST API",
+      "HTML",
+      "Рефакторинг кода",
+      "Оптимизация кода",
+      "SQL",
+      "Opencart"
+    ]
+  },
+  {
+    "name": "Программист Backend .NET/ С# (Middle)",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "Git",
+      ".NET Framework",
+      "MSSQL",
+      "REST",
+      "JSON-RPC",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Senior Java Backend Developer",
+    "skills": [
+      "Java",
+      "PostgreSQL",
+      "Kubernetes",
+      "Apache Kafka",
+      "Hibernate",
+      "Docker",
+      "Spring Framework",
+      "DDD",
+      "microservices architecture",
+      "performance optimization",
+      "third-party integrations",
+      "technical debt management",
+      "Spring Cloud",
+      "query optimization",
+      "JPA",
+      "Hibernate ORM",
+      "containerization",
+      "container orchestration",
+      "Public API development",
+      "REST",
+      "REST API",
+      "gRPC",
+      "OpenAPI",
+      "SOAP",
+      "WebSockets",
+      "SQL",
+      "CI/CD",
+      "Node.js",
+      "React",
+      "frontend"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "NodeJS",
+      "NestJS",
+      "PostgreSQ",
+      "Redis",
+      "RethinkDB",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "Python",
+      "Golang",
+      "MS SQL",
+      "NoSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "NestJS"
+    ]
+  },
+  {
+    "name": "PHP Backend Developer Middle+/Senior",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Symfony",
+      "Redis",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Backend/Fullstack Developer",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Умение работать в коллективе",
+      "Laravel",
+      "Gitlab",
+      "Vue 3"
+    ]
+  },
+  {
+    "name": ".NET Backend Developer (Senior)",
+    "skills": [
+      "Apache Kafka",
+      "MongoDB",
+      "C#",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Программист Backend Python (ML) + GO",
+    "skills": [
+      "Git",
+      "MSSQL",
+      "REST",
+      "JSON-RPC",
+      "Golang",
+      "Machine Learning",
+      "ML",
+      "Python"
+    ]
+  },
+  {
+    "name": "Junior+ Middle backend developer Kotlin (биотехнологическая компания)",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "SQL",
+      "Docker",
+      "Git",
+      "Unit Testing"
+    ]
+  },
+  {
+    "name": "Backend php developer",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Docker",
+      "Redis",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Backend-разработчик в команду Web App",
+    "skills": [
+      "С#",
+      "ASP.NET Core",
+      "PostgreSQL",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Backend разработчик Node.js",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Python-разработчик | Senior Python Backend Developer (to Cyprus)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Английский язык",
+      "PostgreSQL",
+      "Go"
+    ]
+  },
+  {
+    "name": "Python Backend developer / Инженер-программист (Testing Tools)",
+    "skills": [
+      "Python",
+      "Linux",
+      "Django Framework",
+      "Docker",
+      "RabbitMQ",
+      "Jenkins",
+      "asyncio"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP, Symfony)",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "Redis",
+      "RabbitMQ",
+      "SQL",
+      "ChatGPT"
+    ]
+  },
+  {
+    "name": "PHP-разработчик Backend-разработчик Laravel",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "RabbitMQ",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Java + Golang)",
+    "skills": [
+      "Java",
+      "SQL",
+      "MongoDB",
+      "Golang"
+    ]
+  },
+  {
+    "name": "Backend Developer в команду ленты",
+    "skills": [
+      "Golang"
+    ]
+  },
+  {
+    "name": "Backend Developer - Infra Team",
+    "skills": [
+      "Java",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Back end разработчик (PL/SQL; PostgreSQL)",
+    "skills": [
+      "SQL",
+      "Oracle Pl/SQL",
+      "MySQL",
+      "Java",
+      "PostgreSQL",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "ORACLE",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик ( .NET, C#) Middle",
+    "skills": [
+      "C#",
+      "RabbitMQ",
+      "Apache Kafka",
+      "ORM",
+      "Docker",
+      "Gitlab",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend-разработчик php (yii2)",
+    "skills": [
+      "PHP",
+      "Git",
+      "ООП",
+      "JavaScript",
+      "PostgreSQL",
+      "Yii",
+      "Laravel",
+      "RabbitMQ",
+      "MS SQL"
+    ]
+  },
+  {
+    "name": "Senior Backend developer, PHP",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Clickhouse",
+      "Redis",
+      "Memcached",
+      "REST API",
+      "PHPUnit",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Senior backend разработчик",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Git"
+    ]
+  },
+  {
+    "name": "Java Backend Developer - Разработчик серверной части",
+    "skills": [
+      "Java",
+      "ORACLE",
+      "Spring Boot",
+      "PostgreSQL",
+      "MongoDB",
+      "Elasticsearch",
+      "SQL",
+      "Oracle Pl/SQL",
+      "GitHub Actions",
+      "RabbitMQ",
+      "NoSQL",
+      "C++",
+      "Алгоритмы и структуры данных",
+      "Микросервисная архитектура",
+      "SOAP",
+      "gRPC",
+      "Multithread Programming"
+    ]
+  },
+  {
+    "name": "Backend Программист С++ (Middle)",
+    "skills": [
+      "C++",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Python backend developer",
+    "skills": [
+      "Python",
+      "Linux",
+      "SQL",
+      "REST",
+      "API",
+      "Redis",
+      "Flask",
+      "Docker",
+      "pandas",
+      "OpenCV"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js\\Nest.JS)",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Docker",
+      "Gitlab",
+      "TypeScript",
+      "Микросервисная архитектура",
+      "Nest.js",
+      "Swagger",
+      "Unit Testing",
+      "Team management"
+    ]
+  },
+  {
+    "name": "Backend Architect / Senior Developer",
+    "skills": [
+      "Clean Architecture",
+      "Node.js",
+      "Enterprise Architect",
+      "PostgreSQL",
+      "SQL",
+      "Architecture Framework"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Node.js) / Старший Backend-разработчик",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript",
+      "JavaScript",
+      "Docker",
+      "Nest.js"
+    ]
+  },
+  {
+    "name": "Back-end разработчик (Laravel)",
+    "skills": [
+      "1С-Битрикс",
+      "Laravel",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "CSS",
+      "HTML",
+      "Работа с базами данных",
+      "1С-Битрикс",
+      "JS"
+    ]
+  },
+  {
+    "name": "Middle Backend разработчик",
+    "skills": [
+      "Spring WebFlux",
+      "Keycloak",
+      "MongoDB",
+      "java 8+,",
+      "Docker",
+      "Project Reactor"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "RabbitMQ",
+      "JS",
+      "MongoDB",
+      "Redis",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Back-end developer (PHP)",
+    "skills": [
+      "PHP7",
+      "Laravel",
+      "SQL",
+      "Git",
+      "MVC",
+      "ООП",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend Developer (Go/Golang)",
+    "skills": [
+      "Golang",
+      "PostgreSQL",
+      "Apache Kafka",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Team Lead backend-разработки",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "Docker",
+      "RabbitMQ",
+      "Управление командой",
+      "Постановка задач разработчикам",
+      "Управление бизнес процессами"
+    ]
+  },
+  {
+    "name": "Auto QA Engineer (fullstack / Java / backend)",
+    "skills": [
+      "QA Automation",
+      "SDET",
+      "понимание REST API",
+      "SQL",
+      "Java",
+      "RestAssured",
+      "JUnit",
+      "Gitlab",
+      "Allure",
+      "TestNG",
+      "Apache Kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Middle/Senior Node.js + Typescript Backend Developer",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Middle/Middle+ Backend Developer (.NET)",
+    "skills": [
+      "С#",
+      "MS SQL",
+      "PostgreSQL",
+      "RabbitMQ",
+      ".NET",
+      "ООП",
+      "Clean Architecture",
+      "DDD",
+      ".NET Framework",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Руководитель группы backend разработки (микросервисы на Golang)",
+    "skills": [
+      "Golang",
+      "Микросервисная архитектура",
+      "REST/gRPC",
+      "Docker/Kubernetes",
+      "CI/CD",
+      "PostgreSQL",
+      "Kafka",
+      "OPC UA",
+      "MQTT",
+      "Modbus",
+      "Linux/Windows",
+      "Bash",
+      "Git",
+      "АСУТП",
+      "КИПиА",
+      "C#/C++"
+    ]
+  },
+  {
+    "name": "Middle Backend Go/PHP Developer",
+    "skills": [
+      "Docker",
+      "Golang",
+      "Redis",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Senior backend developer C#/.NET",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET Core 5+",
+      "MongoDB",
+      "Kubernetes",
+      "Docker",
+      "SOLID",
+      "ORM",
+      "Kafka",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Стажер-разработчик бэкенда",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Golang",
+      "C/C++",
+      "Scala",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Senior/Middle Node.js Backend Developer",
+    "skills": [
+      "PostgreSQL",
+      "Node.js",
+      "TypeScript",
+      "Redis",
+      "ACID",
+      "WebSockets",
+      "Web3"
+    ]
+  },
+  {
+    "name": "Техлид Backend (TypeScript/NestJS)",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET, C#) — iGaming / Blockchain",
+    "skills": [
+      ".NET Core",
+      "Docker",
+      "Kubernetes",
+      "RabbitMQ",
+      "Apache Kafka",
+      "Entity Framework",
+      "ELK",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "PHP разработчик (программист API, Backend, API, Сервер, WEB)",
+    "skills": [
+      "PHP",
+      "Yii2",
+      "MySQL",
+      "Git",
+      "MVC",
+      "API",
+      "Веб-программирование",
+      "Серверное программирование",
+      "Базы данных",
+      "Laravel",
+      "программирование",
+      "Symfony",
+      "Web",
+      "Разработка ПО",
+      "JSON",
+      "Backend",
+      "ООП",
+      "Bootstrap",
+      "Cистемы управления базами данных",
+      "Работа с чужим кодом",
+      "Код-ревью"
+    ]
+  },
+  {
+    "name": "Middle Back-End C# Developer, XBEA Team",
+    "skills": [
+      "С#",
+      "SOLID",
+      "API",
+      "Documentary",
+      "Unit Testing",
+      "Teamplayer",
+      "xUnit"
+    ]
+  },
+  {
+    "name": "Backend PHP разработчик (Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Yii2",
+      "Ajax",
+      "ООП",
+      "Git"
+    ]
+  },
+  {
+    "name": "Middle backend PHP developer (IT)",
+    "skills": [
+      "Docker",
+      "PostgreSQL",
+      "Redis",
+      "PHPUnit",
+      "PHP",
+      "REST API",
+      "Python"
+    ]
+  },
+  {
+    "name": "Team Lead PHP Backend Developer/Руководитель группы разработки",
+    "skills": [
+      "PHP",
+      "MVC",
+      "MySQL",
+      "Laravel",
+      "Redis",
+      "Docker-compose",
+      "Golang"
+    ]
+  },
+  {
+    "name": "Node.js Backend developer",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Mid-Sr Backend developer / Разработчик C++",
+    "skills": [
+      "C++",
+      "Linux",
+      "Git",
+      "MySQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Senior Kotlin backend разработчик",
+    "skills": [
+      "Kotlin",
+      "Clean Architecture",
+      "PostgreSQL",
+      "GraphQL",
+      "OLAP",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Backend Разработчик (TypeScript)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "web3",
+      "blockchain",
+      "cryptocurrency",
+      "fullstack",
+      "highload",
+      "Start-up project"
+    ]
+  },
+  {
+    "name": "Backend разработчик (NodeJS)",
+    "skills": [
+      "Git",
+      "Docker",
+      "Sequelize",
+      "Fastify",
+      "NATS",
+      "MQTT"
+    ]
+  },
+  {
+    "name": "Back-end разработчик PHP (middle+/ senior)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Symfony",
+      "RabbitMQ",
+      "MySQL",
+      "Apache Kafka",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Senior Manual QA (backend + auto)",
+    "skills": [
+      "PostgreSQL",
+      "Python"
+    ]
+  },
+  {
+    "name": "Lead Backend Developer (Node.js) US-based company",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "GraphQL",
+      "Docker",
+      "Apache Kafka",
+      "Kubernetes",
+      "RabbitMQ",
+      "Team management",
+      "tech lead"
+    ]
+  },
+  {
+    "name": "PHP-программист/Backend developer",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "MySQL",
+      "Laravel",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Python Backend developer / Инженер-программист (Testing Tools)",
+    "skills": [
+      "Python",
+      "Linux",
+      "Django Framework",
+      "Docker",
+      "RabbitMQ",
+      "Jenkins",
+      "asyncio"
+    ]
+  },
+  {
+    "name": "Senior backend developer (node.js)",
+    "skills": [
+      "LLM",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Docker",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP, Symfony)",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "Redis",
+      "RabbitMQ",
+      "SQL",
+      "ChatGPT"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer / Бэкэнд Программист",
+    "skills": [
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend-разработчик ( .NET, C#) Senior",
+    "skills": [
+      "C#",
+      "RabbitMQ",
+      "Apache Kafka",
+      "ORM",
+      "Docker",
+      "Gitlab",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "PHP-разработчик (Middle backend developer)",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Git",
+      "PostgreSQL",
+      "Yii",
+      "HTML",
+      "CSS",
+      "Unit Testing",
+      "Kubernetes",
+      "JavaScript",
+      "jQuery",
+      "vue.js"
+    ]
+  },
+  {
+    "name": "Senior node.js backend developer",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "SQL",
+      "Express",
+      "Redis",
+      "Docker",
+      "RabbitMQ",
+      "Kafka",
+      "Clickhouse",
+      "Highload",
+      "JavaScript",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Senior Java Backend Developer",
+    "skills": [
+      "Java",
+      "PostgreSQL",
+      "Kubernetes",
+      "Apache Kafka",
+      "Hibernate",
+      "Docker",
+      "Spring Framework",
+      "Clean Architecture"
+    ]
+  },
+  {
+    "name": "Менеджер по продукту (Backend-разработка, лояльность и экосистемы)",
+    "skills": [
+      "Продуктовая стратегия",
+      "Управление ожиданиями",
+      "Приоритизация бэклога",
+      "Управление бэклогом",
+      "Деловая коммуникация"
+    ]
+  },
+  {
+    "name": "PHP Программист/Fullstack/Backend Разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Laravel",
+      "Nginx",
+      "Apache HTTP Server",
+      "Linux",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior Backend разработчик (Python)",
+    "skills": [
+      "Python",
+      "RabbitMQ",
+      "Celery",
+      "Kafka",
+      "Docker",
+      "PostgreSQL",
+      "CI/CD",
+      "API",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Ruby Backend Developer (в Travel tech)",
+    "skills": [
+      "PostgreSQL",
+      "Ruby",
+      "Redis",
+      "Unit Testing",
+      "API"
+    ]
+  },
+  {
+    "name": "C# разработчик (.net 5/backend)",
+    "skills": [
+      "С#",
+      ".NET 5",
+      "Yandex.Cloud",
+      ".NET Framework",
+      "SQL",
+      "LINQ",
+      "MS SQL Server"
+    ]
+  },
+  {
+    "name": "Backend-разработчик 1С-Битрикс",
+    "skills": [
+      "PHP7",
+      "PHP8",
+      "HTML",
+      "CSS",
+      "1С-Битрикс",
+      "RESTful API",
+      "Git",
+      "VueJS",
+      "JavaScript",
+      "Опыт командной работы"
+    ]
+  },
+  {
+    "name": "Node.js backend developer",
+    "skills": [
+      "Node.js",
+      "Nest.js",
+      "PostgreSQL",
+      "REST API",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP 1С-Битрикс в офис",
+    "skills": [
+      "PHP",
+      "1С-Битрикс",
+      "MySQL",
+      "API"
+    ]
+  },
+  {
+    "name": "Senior Backend (JAVA) Developer",
+    "skills": [
+      "Java",
+      "REST",
+      "API"
+    ]
+  },
+  {
+    "name": "Node.js / Python Backend разработчик",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "Elasticsearch",
+      "PHP",
+      "Vue",
+      "web-sockets",
+      "Nuxt"
+    ]
+  },
+  {
+    "name": "Middle backend-разработчик",
+    "skills": [
+      "PHP",
+      "Git",
+      "HTML",
+      "CSS",
+      "Laravel",
+      "1С-Битрикс",
+      "Linux",
+      "ООП",
+      "SPA",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Преподаватель по Back end в учебный центр",
+    "skills": [
+      "Обучение и развитие",
+      "Умение находить общий язык",
+      "Python",
+      "Django Framework",
+      "Django Rest Framework",
+      "Aiogram"
+    ]
+  },
+  {
+    "name": "Jun Backend PHP/Laravel developer (гибрид)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Backend",
+      "Docker",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Lead Backend Developer (Python)",
+    "skills": [
+      "Python",
+      "Clickhouse",
+      "pandas",
+      "Numpy",
+      "FastAPI"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Laravel)",
+    "skills": [
+      "Laravel",
+      "PHP7",
+      "MySQL",
+      "MVC",
+      "Yii2",
+      "Yii",
+      "REST API",
+      "Docker",
+      "Git",
+      "API",
+      "ORM",
+      "D7",
+      "1С-Битрикс",
+      "Bitrix Framework"
+    ]
+  },
+  {
+    "name": "PHP Веб Программист / Fullstack / Backend Разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "jQuery",
+      "HTML",
+      "MVC",
+      "CSS",
+      "ООП",
+      "Git",
+      "Bootstrap",
+      "Разработка ПО",
+      "Веб-программирование",
+      "Laravel",
+      "TypeScript",
+      "GitHub",
+      "Проектирование"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Net, .Net Core, WebAPI)",
+    "skills": [
+      "Kafka",
+      "PostgreSQL",
+      "C#",
+      ".NET Core",
+      "Docker",
+      "ELK"
+    ]
+  },
+  {
+    "name": "BACKEND разработчик (Node.js) Middle +/Senior",
+    "skills": [
+      "Node.js",
+      "Postgres",
+      "Elasticsearch",
+      "Redis",
+      "RabbitMQ",
+      "gRPC",
+      "MongoDB",
+      "GraphQL",
+      "nest.js"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Redis",
+      "Apache Hive",
+      "Node.js",
+      "Kubernetes",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Инженер по автоматизации тестирования в Яндекс ID (фронтенд и бэкенд)",
+    "skills": [
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend Node.JS Developer",
+    "skills": [
+      "высшее образование",
+      "Node.js",
+      "JavaScript",
+      "Разработка ПО",
+      "Английский язык",
+      "Unix",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Программист PHP Backend/Fullstack (Middle+)",
+    "skills": [
+      "Symfony",
+      "Kafka",
+      "Golang",
+      "PHP",
+      "jQuery",
+      "GraphQL",
+      "Keycloak",
+      "RabbitMQ",
+      "Docker",
+      "Composer",
+      "PostgreSQL",
+      "MySQL",
+      "Адаптер",
+      "Декоратор",
+      "Singleton",
+      "RestApi",
+      "Yii2",
+      "Middle",
+      "Php Developer"
+    ]
+  },
+  {
+    "name": "Trainee Back-end (Node.js) Developer",
+    "skills": [
+      "Английский язык",
+      "Node.js",
+      "JavaScript",
+      "Express.js",
+      "REST",
+      "MongoDB",
+      "PostreSQL",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "Middle Backend разработчик(Node.js)",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "AngularJS",
+      "ООП",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior PHP Backend Developer (Acquiring)",
+    "skills": [
+      "PHP",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Node JS)",
+    "skills": [
+      "NestJS",
+      "Apache Kafka",
+      "Flink",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Middle backend-разработчик (Node.js)",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "Kubernetes",
+      "RabbitMQ",
+      "TypeScript",
+      "Nest.js"
+    ]
+  },
+  {
+    "name": "Middle+/Senior Backend Developer (Node.JS)",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript",
+      "AWS",
+      "Английский язык"
+    ]
+  },
+  {
+    "name": "Backend разработчик (SENIOR)",
+    "skills": [
+      "Java (13,17)",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "ORACLE",
+      "RabbitMQ",
+      "Redis",
+      "Maven",
+      "Git",
+      "Spring JPA",
+      "Spring Cloud",
+      "Spring Security",
+      "Elasticsearch",
+      "Docker",
+      "vue.js"
+    ]
+  },
+  {
+    "name": "Senior Kotlin Backend Developer",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "PostgreSQL",
+      "Apache Kafka"
+    ]
+  },
+  {
+    "name": "Team Lead Back-End",
+    "skills": [
+      "PHP",
+      "Git",
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Team Lead Backend (PHP)",
+    "skills": [
+      "PHP",
+      "Apache Kafka",
+      "PostgreSQL",
+      "MySQL",
+      "API"
+    ]
+  },
+  {
+    "name": "Backend Developer (Node.js)",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Tech Lead JavaScript Backend",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "RabbitMQ",
+      "Clickhouse",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Symfony)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "ООП",
+      "RabbitMQ",
+      "Gitlab",
+      "Docker",
+      "Elasticsearch",
+      "Memcached",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "Контроль качества разработки",
+      "Менторство",
+      "Оптимизация процессов",
+      "Планирование спринтов",
+      "Разработка стратегии",
+      "Управление командой",
+      "Участие в код-ревью"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Symfony)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "ООП",
+      "RabbitMQ",
+      "Gitlab",
+      "Docker",
+      "Elasticsearch",
+      "Memcached",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "Fullstack QA java (web, backend)",
+    "skills": [
+      "SQL",
+      "Java",
+      "Автоматизированное тестирование",
+      "Ручное тестирование",
+      "Функциональное тестирование",
+      "QA",
+      "Selenide",
+      "Selenium",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (symfony) на проект ДБО",
+    "skills": [
+      "PHP",
+      "PHP5",
+      "PHP8",
+      "Symfony",
+      "SQL",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик middle (PHP)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "Redis",
+      "RabbitMQ",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Java/Scala)",
+    "skills": [
+      "Java",
+      "Scala",
+      "Linux",
+      "RabbitMQ",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Fullstack QA инженер (backend)",
+    "skills": [
+      "SQL",
+      "Python",
+      "Java",
+      "Git",
+      "BDD",
+      "QA"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Git",
+      "SQL",
+      "Docker",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "NestJS",
+      "MySQL",
+      "TypeScript",
+      "Microservices",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Backend Lead Node.js",
+    "skills": [
+      "Node.js",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Python",
+      "Git",
+      "PostgreSQL",
+      "FastAPI",
+      "Асинхронное программирование",
+      "Рефакторинг кода",
+      "Ведение рабочей документации",
+      "Игровой опыт"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP, Laravel, Node.js)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "PostgreSQL",
+      "DevOps",
+      "Git",
+      "Ubuntu",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Middle backend разработчик С#",
+    "skills": [
+      "C#",
+      ".NET Framework",
+      "Entity Framework",
+      "REST",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend разработчик Java Script (Проект чат бот)",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "NoSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Инженер по автоматизированному тестированию (frontend/backend Python)",
+    "skills": [
+      "Git",
+      "Linux",
+      "Python",
+      "Функциональное тестирование",
+      "Автоматизированное тестирование",
+      "Pytest",
+      "Requests",
+      "Allure",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "Middle Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Стажер-разработчик бэкенда",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Golang",
+      "C/C++",
+      "Scala",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Backend-программист PHP (middle+)",
+    "skills": [
+      "MySQL",
+      "PHP7",
+      "CSS",
+      "HTML",
+      "PostgreSQL",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Backend программист PHP (Wordpress, Modx, Bitrix)",
+    "skills": [
+      "PHP",
+      "CMS Wordpress",
+      "modx",
+      "1С-Битрикс",
+      "Laravel",
+      "Bitrix",
+      "Ajax",
+      "Joomla CMS",
+      "Bootstrap",
+      "PHP5",
+      "HTML5",
+      "Веб-программирование",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "Wordpress",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Разработчик (бэкенд/фулстек) уровня Middle+/Senior",
+    "skills": [
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "C#",
+      "СУБД"
+    ]
+  },
+  {
+    "name": "Tech lead/Lead Backend developer (Node.JS)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET)",
+    "skills": [
+      ".NET",
+      ".NET Core",
+      "C#",
+      "API",
+      "Amazon Web Services",
+      "Apache Kafka",
+      "RabbitMQ",
+      "SQL",
+      "NoSQL",
+      "Docker",
+      "Kibana",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "Kotlin Backend Developer",
+    "skills": [
+      "Kotlin",
+      "Spring Framework",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (symfony) на проект ДБО",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Ведущий разработчик / TeamLead (backend)",
+    "skills": [
+      "Управление командой",
+      "Python",
+      "FastAPI",
+      "SQL",
+      "REST",
+      "Apache Kafka",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Python (Django) Backend разработчик (мидл)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Celery",
+      "Docker",
+      "UnitTest",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик в Эйчартех",
+    "skills": [
+      "Kotlin",
+      "Spring Boot",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Middle|Senior backend разработчик (Golang), проект Choco SR",
+    "skills": [
+      "Go",
+      "PostgreSQL",
+      "Docker",
+      "REST API",
+      "PHP",
+      "MongoDB",
+      "RabbitMQ",
+      "Git",
+      "gRPC",
+      "Kubernetes",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Разработчик Web (back-end)",
+    "skills": [
+      ".NET Framework",
+      "C#",
+      "PostgreSQL",
+      "Apache Kafka",
+      "ELK",
+      "REST",
+      "Swagger"
+    ]
+  },
+  {
+    "name": "Python Backend developer / Инженер-программист (Testing Tools)",
+    "skills": [
+      "Python",
+      "Linux",
+      "Django Framework",
+      "Docker",
+      "RabbitMQ",
+      "Jenkins",
+      "asyncio"
+    ]
+  },
+  {
+    "name": "Lead / Senior C# разработчик (.net, back-end)",
+    "skills": [
+      "C#",
+      "MS SQL",
+      "LINQ",
+      ".NET Core",
+      "ASP.NET Core"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "MongoDB",
+      "Unit Testing"
+    ]
+  },
+  {
+    "name": "Backend-разработчик senior (python)",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "Python",
+      "JavaScript",
+      "REST API",
+      "Разработка ПО",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (symfony) на проект ДБО",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Middle Backend .NET разработчик",
+    "skills": [
+      "Git",
+      "C#",
+      "Entity Framework",
+      ".NET Framework",
+      "SQL",
+      "ООП",
+      ".NET Core",
+      "REST",
+      "PostgreSQL",
+      "Camunda",
+      "ASP.NET Core",
+      "Docker",
+      "Kubernetes",
+      "Oracle Pl/SQL"
+    ]
+  },
+  {
+    "name": "Backend developer (PHP)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Symfony",
+      "Laravel",
+      "Zend Framework",
+      "Yii",
+      "JavaScript",
+      "PhpStorm",
+      "API",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Middle / Senior Backend разработчик (PHP Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "PostgreSQL",
+      "MySQL",
+      "Git",
+      "JavaScript",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Backend developer C#",
+    "skills": [
+      "C#",
+      "Linux",
+      ".NET Core",
+      "ASP.NET",
+      ".NET"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (symfony) на проект ДБО",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Middle backend developer (PHP/Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "Redis",
+      "RabbitMQ",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "(Senior) Backend Engineer",
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Phoenix",
+      "Elixir",
+      "PostgreSQL",
+      "NoSQL",
+      "AWS",
+      "GCP",
+      "CI/CD",
+      "Vercel",
+      "Google Workspace",
+      "Notion",
+      "GitHub",
+      "FigJam",
+      "Slack"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (1С-Битрикс)",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JS",
+      "RabbitMQ",
+      "Apache Kafka",
+      "Vue.js",
+      "PHP",
+      "1С-Битрикс",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer",
+    "skills": [
+      "Java",
+      "Python",
+      "C#",
+      "Go",
+      "TypeScript",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Senior/Principal Back-end Developer (.NET, Azure)",
+    "skills": [
+      ".Net",
+      "ASP.NET",
+      "Azure",
+      "Cosmos DB",
+      "Azure functions",
+      "Service Bus",
+      "Event Grid"
+    ]
+  },
+  {
+    "name": "Senior Backend-разработчик Node.js (Алматы)",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "Kafka",
+      "PostgreSQL",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Oracle)",
+    "skills": [
+      "ORACLE",
+      "Oracle Pl/SQL",
+      "Kanban",
+      "backend"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET) в команду AuthTeam",
+    "skills": [
+      ".NET Core",
+      "PostgreSQL",
+      "MS SQL",
+      "Secuity Software"
+    ]
+  },
+  {
+    "name": "Lead Backend Developer (Python)",
+    "skills": [
+      "Python",
+      "Clickhouse",
+      "pandas",
+      "Numpy",
+      "FastAPI",
+      "Blockchain",
+      "Crypto"
+    ]
+  },
+  {
+    "name": "Backend Engineer (Ruby)",
+    "skills": [
+      "Ruby On Rails",
+      "Ruby",
+      "Docker",
+      "PostgreSQL",
+      "Roda"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Oracle)",
+    "skills": [
+      "ORACLE",
+      "Oracle Pl/SQL",
+      "Kanban",
+      "backend"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Senior backend developer",
+    "skills": [
+      "Базы данных",
+      "HTML/CSS",
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "ООП",
+      "C++"
+    ]
+  },
+  {
+    "name": "Backend разработчик .NET Middle",
+    "skills": [
+      "RabbitMQ",
+      "Kafka",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "MinIO",
+      "Docker",
+      "Kubernetes",
+      "OPC",
+      "SOAP",
+      "MassTransit",
+      "EF Core",
+      "Hangfire",
+      "Serilog",
+      "AutoMapper",
+      "SignalR",
+      "xUnit"
+    ]
+  },
+  {
+    "name": "Team Lead Backend разработки",
+    "skills": [
+      "Управление командой",
+      "Java"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET) в команду Booking API",
+    "skills": [
+      ".NET Core",
+      "PostgreSQL",
+      "API Gateway"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "backend",
+      "appwrite"
+    ]
+  },
+  {
+    "name": "Backend developer / PHP - разработчик (Middle/Senior)",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "DDD",
+      "CQRS",
+      "Golang",
+      "Symfony",
+      "RoadRunner",
+      "PostgreSQL",
+      "Kafka",
+      "Temporal",
+      "Redis",
+      "Docker",
+      "KrakenD",
+      "Работа в команде"
+    ]
+  },
+  {
+    "name": "Senior Backend developer",
+    "skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend developer/php разработчик",
+    "skills": [
+      "Yii",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend PHP developer (symfony) на проект ДБО",
+    "skills": [
+      "PHP",
+      "PHP5",
+      "PHP8",
+      "Symfony",
+      "SQL",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Oracle)",
+    "skills": [
+      "ORACLE",
+      "Oracle Pl/SQL",
+      "Kanban",
+      "backend"
+    ]
+  },
+  {
+    "name": "Trainee (Ruby on Rails) Back-end Developer",
+    "skills": [
+      "HTML",
+      "Английский язык",
+      "CSS",
+      "Ruby",
+      "Ruby On Rails"
+    ]
+  },
+  {
+    "name": "Бэкенд разработчик PHP, CodeIgniter 2 (офис, гибрид)",
+    "skills": [
+      "Git",
+      "jira",
+      "API",
+      "HTML5",
+      "CSS3",
+      "PHP",
+      "Symfony",
+      "Laravel",
+      "Codeigniter",
+      "Yii"
+    ]
+  },
+  {
+    "name": "Lead Backend Developer (Node.js)",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior backend developer",
+    "skills": [
+      "Python",
+      "Redis",
+      "ООП",
+      "PostgreSQL",
+      "Unit Testing",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Redis",
+      "Apache Hive",
+      "Node.js",
+      "Kubernetes",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Lead BackEnd C#/.Net",
+    "skills": [
+      "C#"
+    ]
+  },
+  {
+    "name": "Senior Backend (node.js + TS) + Blockchain Developer (solidity) в крипто проект",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Rust",
+      "blockchain",
+      "solidity"
+    ]
+  },
+  {
+    "name": "Стажер-разработчик бэкенда",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Golang",
+      "C/C++",
+      "Scala",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Senior Backend PHP программист",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "MySQL",
+      "Ajax",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (PHP, Laravel)",
+    "skills": [
+      "Git",
+      "GitHub",
+      "MySQL",
+      "Laravel",
+      "Linux",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Разработчик Backend/Frontend",
+    "skills": [
+      "Vue.js",
+      "Vue",
+      "Laravel",
+      "MySQL",
+      "Frontend",
+      "JavaScript",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Технический Team Lead (Backend)",
+    "skills": [
+      "Python",
+      "Django Rest Framework",
+      "PostgreSQL",
+      "Redis",
+      "Apache Kafka",
+      "OAuth",
+      "REST",
+      "Swagger",
+      "Docker",
+      "Docker-compose",
+      "Gitlab",
+      "CI/CD",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend Lead Node.js",
+    "skills": [
+      "Node.js",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend Team Lead",
+    "skills": [
+      "Django Framework",
+      "FastAPI",
+      "Python",
+      "Управление командой"
+    ]
+  },
+  {
+    "name": "Разработчик бэкенда в Маркет для бизнеса",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Spring",
+      "PostgreSQL",
+      "Yandex Tables",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Ведущий инженер-конструктор СБИС (Back-End designer)",
+    "skills": [
+      "СБИС",
+      "RTL-to-GDSII",
+      "SOC",
+      "СнК",
+      "логический синтез",
+      "физический синтез"
+    ]
+  },
+  {
+    "name": "Backend-программист PHP (Middle)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Symfony",
+      "PostgreSQL",
+      "Python",
+      "SOLID",
+      "DDD",
+      "GraphQL",
+      "gRPC",
+      "Docker",
+      "Clean Architecture",
+      "Node.js",
+      "TypeScript",
+      "Swagger",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Преподаватель программирования по Back end",
+    "skills": [
+      "Оперативный поиск информации в сети Интернет",
+      "Обучение и развитие",
+      "Дружелюбие",
+      "Умение находить общий язык",
+      "Python",
+      "Django Rest Framework"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "ASP.NET",
+      "C#",
+      "Entity Framework",
+      "SQL",
+      "Swagger"
+    ]
+  },
+  {
+    "name": "Backend-разработчик PHP (Junior/Middle, Bitrix)",
+    "skills": [
+      "1С-Битрикс",
+      "PHP",
+      "JavaScript",
+      "Bitrix",
+      "CMS Wordpress",
+      "Wordpress",
+      "Веб-программирование",
+      "Создание сайтов",
+      "Программинг 1С Bitrix",
+      "Веб разработчик",
+      "Web разработчик",
+      "cms bitrix",
+      "bitrix",
+      "CSS",
+      "JS",
+      "Frontend",
+      "Кроссбраузерная верстка",
+      "Vue.js",
+      "API",
+      "REST",
+      "phpMyAdmin",
+      "Vue",
+      "Битрикс 24",
+      "REST API",
+      "JSON API",
+      "Java Script",
+      "HTML5",
+      "CMS Bitrix",
+      "Битрикс24",
+      "Java"
+    ]
+  },
+  {
+    "name": "Middle Back-end Developer (Бэкэнд разработчик / Архитектор)",
+    "skills": [
+      "MySQL",
+      "JavaScript",
+      "Node.js",
+      "NestJS",
+      "Express",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB",
+      "REST API",
+      "GraphQL",
+      "DevOps"
+    ]
+  },
+  {
+    "name": "Backend .NET developer",
+    "skills": [
+      "C# .net 8.0",
+      "REST API",
+      "EF Corе",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Reddis",
+      "Microservices",
+      "DDD"
+    ]
+  },
+  {
+    "name": "Middle Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Oracle)",
+    "skills": [
+      "ORACLE",
+      "Oracle Pl/SQL",
+      "Kanban",
+      "backend"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "Node.js",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "backend",
+      "appwrite"
+    ]
+  },
+  {
+    "name": "Senior Backend developer (C#, .Net)",
+    "skills": [
+      "ASP.NET",
+      "ASP.NET Core",
+      "dotnet",
+      "PostgreSQL",
+      ".NET Core"
+    ]
+  },
+  {
+    "name": "Senior backend-разработчик (PHP)",
+    "skills": [
+      "PHP",
+      "RabbitMQ",
+      "GitLab CI",
+      "phalcon"
+    ]
+  },
+  {
+    "name": "Разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Senior Kotlin Backend-разработчик (микросервисы, Spring, Istio)",
+    "skills": [
+      "Kotlin",
+      "Spring Boot",
+      "gRPC API",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Backend Team Lead (Tbilisi)",
+    "skills": [
+      "Golang",
+      "CI/CD",
+      "Gitlab",
+      "Leadership Skills",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Аналитик Backend разработчик",
+    "skills": [
+      "MS Office",
+      "Draw.io",
+      "MS Visio",
+      "MS PowerPoint"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior Node.js Backend Developer (Nest.js)",
+    "skills": [
+      "JavaScript",
+      "REST API",
+      "Nginx",
+      "OAuth",
+      "HTTP",
+      "TCP/IP",
+      "Prometheus",
+      "Grafana",
+      "Graylog",
+      "Docker",
+      "Kubernetes.",
+      "Clickhouse",
+      "heap snapshots",
+      "Fastify",
+      "bottlenecks",
+      "React",
+      "Vue",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Team Lead Backend (Golang)",
+    "skills": [
+      "Golang",
+      "PostgreSQL",
+      "MongoDB",
+      "Управление командой"
+    ]
+  },
+  {
+    "name": "Senior Backend-разработчик (Python)",
+    "skills": [
+      "Python",
+      "Django",
+      "FastAPI",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Senior Backend Engineer (Python)",
+    "skills": [
+      "Python",
+      "Django Framework",
+      "Amazon Web Services",
+      "AWS",
+      "PostgreSQL",
+      "MySQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Oracle)",
+    "skills": [
+      "ORACLE",
+      "Oracle Pl/SQL",
+      "Kanban",
+      "backend"
+    ]
+  },
+  {
+    "name": "Full stack разработчик (frontend, backend)",
+    "skills": [
+      "React",
+      "SQL",
+      "Git",
+      "JavaScript",
+      "CSS3",
+      "HTML",
+      "PostgreSQL",
+      "Node.js",
+      "Backend",
+      "Обучение и развитие",
+      "Frontend",
+      "REST API",
+      "Vue.js"
+    ]
+  },
+  {
+    "name": "Backend (PHP Laravel) developer",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Laravel",
+      "Docker",
+      "REST",
+      "Redis",
+      "React"
+    ]
+  },
+  {
+    "name": "Back End Developer",
+    "skills": [
+      "Git",
+      "GitHub",
+      "Английский язык",
+      "Python",
+      "Django Framework",
+      "FastAPI",
+      "SQL",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Lead Backend NodeJS Engineer",
+    "skills": [
+      "Управление командой",
+      "Лидерство",
+      "Node.js",
+      "Terraform",
+      "AWS",
+      "TypeScript",
+      "NestJS",
+      "Docker",
+      "CI/CD",
+      "Apache Kafka",
+      "RabbitMQ",
+      "SQL",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "Senior DevOps + Backend Software Developer",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "SQL",
+      "Kubernetes",
+      "CI/CD",
+      "NoSQL",
+      "React",
+      "REST API",
+      "React Native",
+      "GraphQL",
+      "Linux",
+      "PostgreSQL",
+      "Git",
+      "Python",
+      "API Gateway"
+    ]
+  },
+  {
+    "name": "PHP / React программист (backend + frontend)",
+    "skills": [
+      "JavaScript",
+      "Git",
+      "CSS",
+      "MySQL",
+      "PHP",
+      "HTML5",
+      "Yii",
+      "React",
+      "React-hooks",
+      "Redux",
+      "Clickhouse",
+      "Docker-compose",
+      "Grafana",
+      "Redis",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "Backend Team Lead (Java, Spring)",
+    "skills": [
+      "Лид-менеджмент",
+      "Java",
+      "Spring Framework",
+      "CI/CD",
+      "OWASP",
+      "JVM",
+      "PostgreSQL",
+      "REST API",
+      "GraphQL",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Senior backend developer",
+    "skills": [
+      "Python",
+      "Redis",
+      "ООП",
+      "PostgreSQL",
+      "Unit Testing",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "name": "Backend-разработчик 1С-Битрикс",
+    "skills": [
+      "PHP7",
+      "PHP8",
+      "HTML",
+      "CSS",
+      "1С-Битрикс",
+      "RESTful API",
+      "Git",
+      "VueJS",
+      "JavaScript",
+      "Опыт командной работы"
+    ]
+  },
+  {
+    "name": "Backend - разработчик (Node.js)",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "GraphQL",
+      "SQL",
+      "React",
+      "Webpack",
+      "Backend",
+      "Git",
+      "Scrum",
+      "Agile Project Management",
+      "NestJS"
+    ]
+  },
+  {
+    "name": "Middle / Senior Backend разработчик (PHP Symfony)",
+    "skills": [
+      "PHP",
+      "Symfony",
+      "SQL",
+      "Redis",
+      "Backend",
+      "Composer",
+      "RabbitMQ",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Backend PHP Разработчик (Middle+/Senior)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "PostgreSQL",
+      "Git",
+      "Микросервисная архитектура",
+      "Linux",
+      "Splunk",
+      "ELK",
+      "Kubernetes",
+      "Docker",
+      "CSS",
+      "HTML",
+      "Gitlab",
+      "Elasticsearch",
+      "GitHub",
+      "RabbitMQ",
+      "REST API",
+      "NoSQL",
+      "JavaScript",
+      "SOLID"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Bitrix)",
+    "skills": [
+      "PHP",
+      "GitHub",
+      "1С-Битрикс",
+      "REST API"
+    ]
+  },
+  {
+    "name": "Middle PHP Developer (back-end разработчик веб-приложений, Bitrix) Lab4U",
+    "skills": [
+      "Git",
+      "MySQL",
+      "ООП",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  {
+    "name": "Разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Redis",
+      "Apache Hive",
+      "Node.js",
+      "Kubernetes",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Backend team lead node.js",
+    "skills": [
+      "MySQL",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Go/PHP Backend Developer",
+    "skills": [
+      "PHP",
+      "Golang",
+      "REST API",
+      "Apache Kafka",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Team lead бэкенд (PHP / Laravel)",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Apache Kafka",
+      "RabbitMQ",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET, YARP, Web Proxying, JS Debugging)",
+    "skills": [
+      "ASP.NET Core",
+      "C#",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "Backend Developer .NET (Payments team)",
+    "skills": [
+      ".NET Framework",
+      "C#",
+      "MS SQL",
+      "RabbitMQ",
+      "Jenkins",
+      "Zabbix",
+      ".NET 6",
+      "PostgreSQL",
+      "Kibana",
+      "ELK Stack",
+      "Service Fabric"
+    ]
+  },
+  {
+    "name": "Java Lead разработчик / Backend Java Developer (Lead)",
+    "skills": [
+      "Java",
+      "Spring Framework",
+      "Git",
+      "ООП",
+      "Hibernate ORM",
+      "SQL",
+      "Atlassian Jira",
+      "Spring Boot",
+      "PostgreSQL",
+      "JUnit",
+      "Atlassian Confluence",
+      "JPA"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Старший разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "React",
+      "Redis",
+      "Apache Hive",
+      "Node.js",
+      "Kubernetes",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Senior .NET C# back-end разработчик",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET Core",
+      "REST",
+      "PostgreSQL",
+      "Entity Framework",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Backend Developer (.NET)",
+    "skills": [
+      ".NET Core",
+      ".NET Framework",
+      "C#",
+      "ASP.NET",
+      "Docker",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Backend Team Lead в Т-Город",
+    "skills": [
+      "Управление командой",
+      "Java",
+      "Kotlin",
+      "Golang",
+      "Python",
+      "Управление бизнес процессами",
+      "Стратегический менеджмент",
+      "Лидерство",
+      "Управление коммуникациями",
+      "Управление ресурсами",
+      "PostgreSQL",
+      "Spring Framework"
+    ]
+  },
+  {
+    "name": "Back-End developer (Node.js )",
+    "skills": [
+      "Git",
+      "Node.js",
+      "SSH",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик на Scala в Яндекс Вертикали",
+    "skills": [
+      "Scala",
+      "ZIO",
+      "Cats Effect",
+      "PostgreSQL",
+      "MySQL",
+      "Kafka",
+      "Cassandra",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Senior PHP/GO Backend-разработчик",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "MVC",
+      "Git",
+      "RabbitMQ",
+      "Golang",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Программист PHP Backend/Fullstack (Middle+)",
+    "skills": [
+      "Symfony",
+      "Kafka",
+      "Golang",
+      "PHP",
+      "jQuery",
+      "GraphQL",
+      "Keycloak",
+      "RabbitMQ",
+      "Docker",
+      "Composer",
+      "PostgreSQL",
+      "MySQL",
+      "Адаптер",
+      "Декоратор",
+      "Singleton",
+      "RestApi",
+      "Yii2",
+      "Middle",
+      "Php Developer"
+    ]
+  },
+  {
+    "name": "Backend developer / PHP - разработчик (Middle/Senior)",
+    "skills": [
+      "MySQL",
+      "PHP",
+      "Laravel",
+      "Fintech",
+      "Backend",
+      "Оптимизация кода",
+      "Оптимизация процессов",
+      "Redis",
+      "Docker",
+      "Symfony",
+      "SOLID",
+      "Frontend",
+      "MongoDB",
+      "Clickhouse",
+      "Elasticsearch",
+      "Yii",
+      "Linux",
+      "Vue",
+      "React.js",
+      "Kafka",
+      "RabbitMQ",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (PHP)",
+    "skills": [
+      "PHP",
+      "SQL",
+      "JavaScript",
+      "VueJS"
+    ]
+  },
+  {
+    "name": "Старший разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Bitrix)",
+    "skills": [
+      "Bitrix",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend - Mentor",
+    "skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Git",
+      "GitHub",
+      "Team management",
+      "Django Rest Framework",
+      "Django Framework",
+      "REST API",
+      "Английский язык",
+      "Oracle Pl/SQL",
+      "Математическая статистика"
+    ]
+  },
+  {
+    "name": "Senior PHP Backend разработчик (\"Резиденты Астана Hub\")",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Стратегическое мышление",
+      "Git",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Bitrix)",
+    "skills": [
+      "Git",
+      "API",
+      "JavaScript",
+      "MySQL",
+      "PHP",
+      "1С-Битрикс",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Golang)",
+    "skills": [
+      "Golang",
+      "PostgreSQL",
+      "Go",
+      "Kafka",
+      "Clickhouse",
+      "Grafana"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Senior Backend developer (Node.JS)",
+    "skills": [
+      "Node.js",
+      "Koa.js",
+      "PostgreSQL",
+      "TypeScript",
+      "Backend",
+      "JavaScript",
+      "SQL",
+      "Nest.js"
+    ]
+  },
+  {
+    "name": "Senior Manager Backend Development",
+    "skills": [
+      "Leadership Skills",
+      "Leadership Development",
+      "Python",
+      "Golang",
+      "CI/CD"
+    ]
+  },
+  {
+    "name": "Senior/Principal Back-end Developer (.NET, Azure)",
+    "skills": [
+      ".Net",
+      "ASP.NET",
+      "Azure",
+      "Cosmos DB",
+      "Azure functions",
+      "Service Bus",
+      "Event Grid"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Yii2, Bitrix)",
+    "skills": [
+      "PHP",
+      "Yii2",
+      "Bitrix",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "Vue.js",
+      "React",
+      "MySQL",
+      "PostgreSQL",
+      "REST API",
+      "WebSockets",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Middle Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior backend developer C#/.NET (+Java/Kotlin/Python)",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET Core 5+",
+      "MongoDB",
+      "Kubernetes",
+      "Docker",
+      "SOLID",
+      "ORM",
+      "Kafka",
+      "RabbitMQ",
+      "Java",
+      "Kotlin",
+      "Python"
+    ]
+  },
+  {
+    "name": "Tech Lead Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Backend разработчик (Symfony)",
+    "skills": [
+      "PHP",
+      "PostgreSQL",
+      "ООП",
+      "RabbitMQ",
+      "Gitlab",
+      "Docker",
+      "Elasticsearch",
+      "Memcached",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "Старший бэкенд-разработчик в BDUI-платформу Маркета",
+    "skills": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Backend-разработчик (Битрикс)",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "MySQL",
+      "Wordpress",
+      "PHP",
+      "1С-Битрикс"
+    ]
+  },
+  {
+    "name": "Senior PHP/GO Backend-разработчик",
+    "skills": [
+      "PHP",
+      "Git",
+      "Golang",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Back End Developer",
+    "skills": [
+      "Git",
+      "GitHub",
+      "Английский язык",
+      "Python",
+      "Django Framework",
+      "FastAPI",
+      "SQL",
+      "Nginx"
+    ]
+  },
+  {
+    "name": "Senior DevOps + Backend Software Developer",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "SQL",
+      "Kubernetes",
+      "CI/CD",
+      "NoSQL",
+      "React",
+      "REST API",
+      "React Native",
+      "GraphQL",
+      "Linux",
+      "PostgreSQL",
+      "Git",
+      "Python",
+      "API Gateway"
+    ]
+  },
+  {
+    "name": "Node.js backend developer",
+    "skills": [
+      "NestJS",
+      "JavaScript",
+      "TypeScript",
+      "Express",
+      "REST API",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Senior Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Senior PHP Backend разработчик (\"Резиденты Астана Hub\")",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Стратегическое мышление",
+      "Git",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "name": "Старший разработчик бэкенда на Java в Путешествия",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker"
+    ]
+  },
+  {
+    "name": "Техлид команды бэкенд-разработки",
+    "skills": [
+      "Информационные технологии"
+    ]
+  },
+  {
+    "name": "Тимлид команды Backend Разработки (PHP)",
+    "skills": [
+      "MySQL",
+      "Redis",
+      "PostgreSQL",
+      "Nginx",
+      "Memcached",
+      "PHP",
+      "Docker",
+      "Yii",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (PHP)",
+    "skills": [
+      "PHP",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Git",
+      "Linux",
+      "Eloquent",
+      "Psalm",
+      "Коммуникативные навыки"
+    ]
+  },
+  {
+    "name": "Ruby Backend Developer",
+    "skills": [
+      "Ruby"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "FullStack / BackEnd - разработчик 1C-Bitrix CMS | WP | JS | PHP",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "PHP5",
+      "Vue.js",
+      "JavaScript",
+      "Веб-программирование",
+      "Git",
+      "MySQL",
+      "REST",
+      "API",
+      "PHP7",
+      "VueJS",
+      "JS",
+      "Битрикс 24",
+      "GitHub",
+      "SQL",
+      "PHP8",
+      "CMS Bitrix"
+    ]
+  },
+  {
+    "name": "Tech Lead Fullstack/Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Бэкенд-разработчик на Scala в Яндекс Вертикали",
+    "skills": [
+      "Scala",
+      "ZIO",
+      "Cats Effect",
+      "PostgreSQL",
+      "MySQL",
+      "Kafka",
+      "Cassandra",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Senior Back-end Developer (PHP+Node.JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Symfony",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Lead Backend Developer (PHP)",
+    "skills": [
+      "PHP",
+      "Linux",
+      "MySQL",
+      "Постановка задач разработчикам",
+      "Управление командой",
+      "Архитектурные решения",
+      "Найм персонала",
+      "Обучение и развитие",
+      "Лидерство",
+      "Стратегическое мышление",
+      "Управление стейкхолдерами",
+      "Разработка стратегии развития",
+      "Разработка системы мотивации",
+      "Управление ожиданиями",
+      "Системное мышление",
+      "ИТ-архитектура"
+    ]
+  },
+  {
+    "name": "Team Lead Back-end Ruby on Rails (Developer)",
+    "skills": [
+      "Ruby",
+      "PostgreSQL",
+      "Ruby On Rails",
+      "Unix",
+      "Английский язык",
+      "Elasticsearch",
+      "MySQL",
+      "Dry",
+      "AWS Lambda"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js), Billing Team",
+    "skills": [
+      "Node.js",
+      "backend",
+      "TypeScript",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Tech Lead Backend Developer (Node.js)",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Laravel разработчик (бэкенд)",
+    "skills": [
+      "Laravel",
+      "Symfony",
+      "Docker-compose",
+      "GitHub",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Node.js Backend Разработчик",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "TypeScript",
+      "Nest.js",
+      "Git",
+      "PostgreSQL",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Senior Golang Developer (Backend)",
+    "skills": [
+      "Go",
+      "AWS",
+      "Git",
+      "SQL",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "Backend-разработчик",
+    "skills": [
+      "MongoDB",
+      "CI/CD",
+      "Python",
+      "PyTorch",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Backend",
+      "Celery",
+      "FastAPI",
+      "pandas",
+      "Numpy",
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Postgres",
+      "Redis",
+      "LangChain",
+      "SQLAlchemy"
+    ]
+  },
+  {
+    "name": "Разработчик бэкенда на С++ в Путешествия",
+    "skills": [
+      "Spring Framework",
+      "PostgreSQL",
+      "gRPC",
+      "Logbrocker",
+      "Java",
+      "C++"
+    ]
+  },
+  {
+    "name": "Преподаватель Unity / Python Backend в онлайн-школу",
+    "skills": [
+      "Грамотная речь",
+      "Преподаватель",
+      "Обучение и развитие",
+      "Дистанционное обучение",
+      "Работа с детьми",
+      "Веб-программирование",
+      "Unity",
+      "Blender 3D",
+      "Обучение",
+      "Scratch",
+      "Roblox"
+    ]
+  },
+  {
+    "name": "Senior Backend Developer (Node.js), Core Team",
+    "skills": [
+      "Node.js",
+      "backend",
+      "TypeScript",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Laravel разработчик (бэкенд)",
+    "skills": [
+      "Laravel",
+      "Symfony",
+      "Docker-compose",
+      "GitHub",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "Senior Back-end Developer (PHP+Node.JS)",
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Symfony",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Преподаватель Unity / Python Backend в онлайн-школу",
+    "skills": [
+      "Грамотная речь",
+      "Преподаватель",
+      "Обучение и развитие",
+      "Дистанционное обучение",
+      "Работа с детьми",
+      "Веб-программирование",
+      "Unity",
+      "Blender 3D",
+      "Обучение",
+      "Scratch",
+      "Roblox"
+    ]
+  },
+  {
+    "name": "Преподаватель Unity / Python Backend в онлайн-школу",
+    "skills": [
+      "Грамотная речь",
+      "Преподаватель",
+      "Обучение и развитие",
+      "Дистанционное обучение",
+      "Работа с детьми",
+      "Веб-программирование",
+      "Unity",
+      "Blender 3D",
+      "Обучение",
+      "Scratch",
+      "Roblox"
+    ]
+  }
+]
