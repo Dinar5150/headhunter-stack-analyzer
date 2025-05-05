@@ -2,6 +2,7 @@ import requests
 import time
 import json
 from typing import List, Dict
+from pathlib import Path
 
 headers = {
     "User-Agent": "HH-User-Agent",
@@ -57,11 +58,17 @@ def get_vacancies(text_prompt: str, per_page: int, max_pages: int) -> List[Dict]
 
     return vacancies_data
 
+# Add directory configuration
+BASE_DIR = Path(__file__).parent.parent.parent  # Gets repository root directory
+DATA_DIR = BASE_DIR / "data"
+DATA_DIR.mkdir(parents=True, exist_ok=True)  # Create directory if not exists
+
 def save_to_json(data: List[Dict], filename: str) -> None:
-    """ Saves the data as a JSON file """
-    with open(filename, 'w', encoding='utf-8') as f:
+    """Saves the data as a JSON file in the data directory"""
+    output_path = DATA_DIR / filename
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"Data saved in {filename} ({len(data)} records)")
+    print(f"Data saved in {output_path} ({len(data)} records)")
 
 # Text prompts for search
 prompts = {
