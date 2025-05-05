@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vacancy Skills Visualization</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <select id="vacancy-type">
+    <option value="data_analyst">Data Analyst</option>
+    <option value="backend">Backend</option>
+    <option value="frontend">Frontend</option>
+    <option value="fullstack">Fullstack</option>
+  </select>
+  <select id="visualization-type">
+    <option value="bubble">Bubble Chart</option>
+    <option value="bar">Bar Chart</option>
+    <option value="wordcloud">Word Cloud</option>
+  </select>
+  <div id="visualization"></div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.5/build/d3.layout.cloud.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
